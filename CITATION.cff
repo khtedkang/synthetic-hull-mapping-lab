@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If this learning lab supports your work, cite the software artifact."
+title: "Synthetic Hull Mapping Learning Lab"
+type: software
+authors:
+  - family-names: Kang
+    given-names: Ted
+version: 1.0.0
+date-released: 2026-09-03
+license: MIT
+abstract: "A deterministic, entirely synthetic geometry lab for educational software demonstration."

@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:synthetic-hull-mapping-lab:synthetic-point-cloud:1.0.0",
+  "title": "Synthetic Hull Mapping Learning Lab Synthetic Point Cloud",
+  "description": "Schema for deterministic fictional hull-surface coordinates used only for education and software demonstration.",
+  "type": "object",
+  "required": ["metadata", "points"],
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "required": ["datasetVersion", "seed", "coordinateUnit", "synthetic", "pointCount", "intentionalGap", "exclusions"],
+      "properties": {
+        "datasetVersion": { "type": "string", "const": "1.0.0" },
+        "seed": { "type": "integer" },
+        "coordinateUnit": { "type": "string", "const": "fictional_unit" },
+        "synthetic": { "type": "boolean", "const": true },
+        "pointCount": { "type": "integer", "minimum": 1 },
+        "intentionalGap": {
+          "type": "object",
+          "required": ["side", "xMin", "xMax", "zMin", "zMax"],
+          "properties": {
+            "side": { "type": "string", "const": "starboard" },
+            "xMin": { "type": "number" },
+            "xMax": { "type": "number" },
+            "zMin": { "type": "number" },
+            "zMax": { "type": "number" }
+          },
+          "additionalProperties": false
+        },
+        "exclusions": { "type": "array", "items": { "type": "string" }, "minItems": 1 }
+      }
+    },
+    "points": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "x", "y", "z", "side", "classification", "synthetic"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^P[0-9]{4}$" },
+          "x": { "type": "number" },
+          "y": { "type": "number" },
+          "z": { "type": "number" },
+          "side": { "enum": ["port", "starboard"] },
+          "classification": { "enum": ["sample", "gap-edge"] },
+          "synthetic": { "type": "boolean", "const": true }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

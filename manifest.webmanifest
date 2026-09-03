@@ -1,0 +1,9 @@
+{
+  "name": "Synthetic Hull Mapping Learning Lab",
+  "short_name": "Hull Mapping Lab",
+  "description": "A deterministic synthetic geometry learning lab.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f5ef",
+  "theme_color": "#10252b"
+}

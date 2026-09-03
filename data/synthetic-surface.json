@@ -1,0 +1,9197 @@
+{
+  "metadata": {
+    "title": "Synthetic Hull Mapping Learning Lab synthetic surface",
+    "datasetVersion": "1.0.0",
+    "seed": 41729,
+    "generatedBy": "deterministic clean-room generator",
+    "coordinateUnit": "fictional_unit",
+    "synthetic": true,
+    "intendedUse": "education_and_software_demonstration_only",
+    "pointCount": 1018,
+    "omittedPositions": 36,
+    "grid": {
+      "longitudinalSteps": 31,
+      "verticalSteps": 17,
+      "sides": 2
+    },
+    "intentionalGap": {
+      "side": "starboard",
+      "xMin": 0.4,
+      "xMax": 2.45,
+      "zMin": -0.6,
+      "zMax": 0.95
+    },
+    "exclusions": [
+      "vehicle_connection",
+      "route_planning",
+      "field_accuracy",
+      "inspection",
+      "certification",
+      "operational_use"
+    ]
+  },
+  "points": [
+    {
+      "id": "P0001",
+      "x": -6.003,
+      "y": -0.558,
+      "z": -2.102,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0002",
+      "x": -5.988,
+      "y": 0.555,
+      "z": -2.101,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0003",
+      "x": -6.007,
+      "y": -0.642,
+      "z": -1.846,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0004",
+      "x": -5.993,
+      "y": 0.639,
+      "z": -1.834,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0005",
+      "x": -5.986,
+      "y": -0.695,
+      "z": -1.583,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0006",
+      "x": -5.99,
+      "y": 0.702,
+      "z": -1.586,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0007",
+      "x": -5.995,
+      "y": -0.734,
+      "z": -1.32,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0008",
+      "x": -6.012,
+      "y": 0.738,
+      "z": -1.309,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0009",
+      "x": -5.993,
+      "y": -0.783,
+      "z": -1.042,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0010",
+      "x": -5.994,
+      "y": 0.775,
+      "z": -1.059,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0011",
+      "x": -5.991,
+      "y": -0.806,
+      "z": -0.777,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0012",
+      "x": -5.994,
+      "y": 0.804,
+      "z": -0.777,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0013",
+      "x": -5.998,
+      "y": -0.81,
+      "z": -0.52,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0014",
+      "x": -6.006,
+      "y": 0.826,
+      "z": -0.52,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0015",
+      "x": -5.988,
+      "y": -0.831,
+      "z": -0.27,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0016",
+      "x": -5.989,
+      "y": 0.822,
+      "z": -0.271,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0017",
+      "x": -5.997,
+      "y": -0.834,
+      "z": 0.003,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0018",
+      "x": -5.991,
+      "y": 0.819,
+      "z": -0.007,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0019",
+      "x": -5.996,
+      "y": -0.822,
+      "z": 0.26,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0020",
+      "x": -5.999,
+      "y": 0.819,
+      "z": 0.257,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0021",
+      "x": -5.993,
+      "y": -0.803,
+      "z": 0.525,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0022",
+      "x": -6.003,
+      "y": 0.801,
+      "z": 0.514,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0023",
+      "x": -5.994,
+      "y": -0.775,
+      "z": 0.796,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0024",
+      "x": -5.994,
+      "y": 0.778,
+      "z": 0.794,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0025",
+      "x": -6.005,
+      "y": -0.736,
+      "z": 1.04,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0026",
+      "x": -6.004,
+      "y": 0.751,
+      "z": 1.046,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0027",
+      "x": -5.998,
+      "y": -0.697,
+      "z": 1.308,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0028",
+      "x": -6.002,
+      "y": 0.694,
+      "z": 1.318,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0029",
+      "x": -5.989,
+      "y": -0.648,
+      "z": 1.582,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0030",
+      "x": -6.005,
+      "y": 0.644,
+      "z": 1.584,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0031",
+      "x": -6.014,
+      "y": -0.577,
+      "z": 1.833,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0032",
+      "x": -5.993,
+      "y": 0.574,
+      "z": 1.849,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0033",
+      "x": -6.006,
+      "y": -0.474,
+      "z": 2.096,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0034",
+      "x": -5.988,
+      "y": 0.479,
+      "z": 2.112,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0035",
+      "x": -5.61,
+      "y": -0.809,
+      "z": -2.098,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0036",
+      "x": -5.608,
+      "y": 0.806,
+      "z": -2.1,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0037",
+      "x": -5.605,
+      "y": -0.92,
+      "z": -1.845,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0038",
+      "x": -5.587,
+      "y": 0.923,
+      "z": -1.829,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0039",
+      "x": -5.601,
+      "y": -0.999,
+      "z": -1.564,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0040",
+      "x": -5.588,
+      "y": 1.002,
+      "z": -1.585,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0041",
+      "x": -5.611,
+      "y": -1.072,
+      "z": -1.303,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0042",
+      "x": -5.598,
+      "y": 1.066,
+      "z": -1.324,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0043",
+      "x": -5.605,
+      "y": -1.112,
+      "z": -1.06,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0044",
+      "x": -5.599,
+      "y": 1.125,
+      "z": -1.04,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0045",
+      "x": -5.608,
+      "y": -1.152,
+      "z": -0.797,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0046",
+      "x": -5.613,
+      "y": 1.152,
+      "z": -0.782,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0047",
+      "x": -5.594,
+      "y": -1.183,
+      "z": -0.516,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0048",
+      "x": -5.611,
+      "y": 1.174,
+      "z": -0.528,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0049",
+      "x": -5.587,
+      "y": -1.185,
+      "z": -0.257,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0050",
+      "x": -5.598,
+      "y": 1.179,
+      "z": -0.274,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0051",
+      "x": -5.593,
+      "y": -1.188,
+      "z": 0.01,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0052",
+      "x": -5.607,
+      "y": 1.19,
+      "z": 0.002,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0053",
+      "x": -5.597,
+      "y": -1.179,
+      "z": 0.264,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0054",
+      "x": -5.606,
+      "y": 1.184,
+      "z": 0.269,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0055",
+      "x": -5.605,
+      "y": -1.144,
+      "z": 0.529,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0056",
+      "x": -5.606,
+      "y": 1.159,
+      "z": 0.535,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0057",
+      "x": -5.611,
+      "y": -1.123,
+      "z": 0.799,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0058",
+      "x": -5.604,
+      "y": 1.115,
+      "z": 0.792,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0059",
+      "x": -5.594,
+      "y": -1.078,
+      "z": 1.049,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0060",
+      "x": -5.598,
+      "y": 1.067,
+      "z": 1.054,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0061",
+      "x": -5.614,
+      "y": -1.007,
+      "z": 1.323,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0062",
+      "x": -5.592,
+      "y": 1,
+      "z": 1.318,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0063",
+      "x": -5.596,
+      "y": -0.918,
+      "z": 1.584,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0064",
+      "x": -5.6,
+      "y": 0.919,
+      "z": 1.575,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0065",
+      "x": -5.587,
+      "y": -0.818,
+      "z": 1.828,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0066",
+      "x": -5.611,
+      "y": 0.818,
+      "z": 1.832,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0067",
+      "x": -5.59,
+      "y": -0.675,
+      "z": 2.103,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0068",
+      "x": -5.597,
+      "y": 0.679,
+      "z": 2.102,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0069",
+      "x": -5.193,
+      "y": -0.988,
+      "z": -2.093,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0070",
+      "x": -5.191,
+      "y": 0.988,
+      "z": -2.11,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0071",
+      "x": -5.198,
+      "y": -1.126,
+      "z": -1.848,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0072",
+      "x": -5.203,
+      "y": 1.114,
+      "z": -1.837,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0073",
+      "x": -5.208,
+      "y": -1.227,
+      "z": -1.581,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0074",
+      "x": -5.203,
+      "y": 1.22,
+      "z": -1.586,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0075",
+      "x": -5.206,
+      "y": -1.306,
+      "z": -1.318,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0076",
+      "x": -5.198,
+      "y": 1.303,
+      "z": -1.308,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0077",
+      "x": -5.21,
+      "y": -1.348,
+      "z": -1.055,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0078",
+      "x": -5.203,
+      "y": 1.366,
+      "z": -1.039,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0079",
+      "x": -5.198,
+      "y": -1.405,
+      "z": -0.793,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0080",
+      "x": -5.194,
+      "y": 1.401,
+      "z": -0.783,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0081",
+      "x": -5.201,
+      "y": -1.429,
+      "z": -0.52,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0082",
+      "x": -5.199,
+      "y": 1.434,
+      "z": -0.535,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0083",
+      "x": -5.209,
+      "y": -1.441,
+      "z": -0.256,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0084",
+      "x": -5.202,
+      "y": 1.436,
+      "z": -0.271,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0085",
+      "x": -5.191,
+      "y": -1.447,
+      "z": 0.001,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0086",
+      "x": -5.202,
+      "y": 1.445,
+      "z": -0.003,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0087",
+      "x": -5.186,
+      "y": -1.434,
+      "z": 0.264,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0088",
+      "x": -5.191,
+      "y": 1.424,
+      "z": 0.273,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0089",
+      "x": -5.208,
+      "y": -1.403,
+      "z": 0.518,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0090",
+      "x": -5.209,
+      "y": 1.412,
+      "z": 0.524,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0091",
+      "x": -5.201,
+      "y": -1.362,
+      "z": 0.798,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0092",
+      "x": -5.198,
+      "y": 1.371,
+      "z": 0.787,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0093",
+      "x": -5.211,
+      "y": -1.296,
+      "z": 1.059,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0094",
+      "x": -5.19,
+      "y": 1.309,
+      "z": 1.06,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0095",
+      "x": -5.191,
+      "y": -1.232,
+      "z": 1.307,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0096",
+      "x": -5.201,
+      "y": 1.232,
+      "z": 1.304,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0097",
+      "x": -5.201,
+      "y": -1.134,
+      "z": 1.57,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0098",
+      "x": -5.208,
+      "y": 1.122,
+      "z": 1.58,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0099",
+      "x": -5.2,
+      "y": -1,
+      "z": 1.838,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0100",
+      "x": -5.207,
+      "y": 0.994,
+      "z": 1.83,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0101",
+      "x": -5.209,
+      "y": -0.817,
+      "z": 2.096,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0102",
+      "x": -5.187,
+      "y": 0.824,
+      "z": 2.108,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0103",
+      "x": -4.788,
+      "y": -1.129,
+      "z": -2.096,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0104",
+      "x": -4.799,
+      "y": 1.116,
+      "z": -2.106,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0105",
+      "x": -4.794,
+      "y": -1.277,
+      "z": -1.838,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0106",
+      "x": -4.797,
+      "y": 1.267,
+      "z": -1.835,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0107",
+      "x": -4.804,
+      "y": -1.382,
+      "z": -1.587,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0108",
+      "x": -4.791,
+      "y": 1.397,
+      "z": -1.585,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0109",
+      "x": -4.813,
+      "y": -1.472,
+      "z": -1.324,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0110",
+      "x": -4.809,
+      "y": 1.47,
+      "z": -1.321,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0111",
+      "x": -4.798,
+      "y": -1.554,
+      "z": -1.052,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0112",
+      "x": -4.806,
+      "y": 1.558,
+      "z": -1.06,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0113",
+      "x": -4.788,
+      "y": -1.605,
+      "z": -0.787,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0114",
+      "x": -4.812,
+      "y": 1.594,
+      "z": -0.783,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0115",
+      "x": -4.788,
+      "y": -1.641,
+      "z": -0.524,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0116",
+      "x": -4.797,
+      "y": 1.626,
+      "z": -0.537,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0117",
+      "x": -4.809,
+      "y": -1.655,
+      "z": -0.259,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0118",
+      "x": -4.8,
+      "y": 1.648,
+      "z": -0.266,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0119",
+      "x": -4.807,
+      "y": -1.644,
+      "z": -0.004,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0120",
+      "x": -4.793,
+      "y": 1.654,
+      "z": -0.009,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0121",
+      "x": -4.804,
+      "y": -1.642,
+      "z": 0.265,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0122",
+      "x": -4.804,
+      "y": 1.641,
+      "z": 0.266,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0123",
+      "x": -4.803,
+      "y": -1.598,
+      "z": 0.519,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0124",
+      "x": -4.809,
+      "y": 1.609,
+      "z": 0.525,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0125",
+      "x": -4.808,
+      "y": -1.546,
+      "z": 0.797,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0126",
+      "x": -4.802,
+      "y": 1.557,
+      "z": 0.784,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0127",
+      "x": -4.804,
+      "y": -1.495,
+      "z": 1.059,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0128",
+      "x": -4.793,
+      "y": 1.489,
+      "z": 1.053,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0129",
+      "x": -4.798,
+      "y": -1.389,
+      "z": 1.323,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0130",
+      "x": -4.791,
+      "y": 1.408,
+      "z": 1.322,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0131",
+      "x": -4.809,
+      "y": -1.282,
+      "z": 1.571,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0132",
+      "x": -4.811,
+      "y": 1.285,
+      "z": 1.565,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0133",
+      "x": -4.796,
+      "y": -1.137,
+      "z": 1.827,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0134",
+      "x": -4.8,
+      "y": 1.139,
+      "z": 1.849,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0135",
+      "x": -4.812,
+      "y": -0.946,
+      "z": 2.101,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0136",
+      "x": -4.812,
+      "y": 0.941,
+      "z": 2.111,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0137",
+      "x": -4.396,
+      "y": -1.242,
+      "z": -2.098,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0138",
+      "x": -4.401,
+      "y": 1.232,
+      "z": -2.105,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0139",
+      "x": -4.392,
+      "y": -1.411,
+      "z": -1.837,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0140",
+      "x": -4.399,
+      "y": 1.406,
+      "z": -1.832,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0141",
+      "x": -4.393,
+      "y": -1.539,
+      "z": -1.565,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0142",
+      "x": -4.388,
+      "y": 1.539,
+      "z": -1.586,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0143",
+      "x": -4.388,
+      "y": -1.623,
+      "z": -1.31,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0144",
+      "x": -4.391,
+      "y": 1.64,
+      "z": -1.324,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0145",
+      "x": -4.413,
+      "y": -1.704,
+      "z": -1.041,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0146",
+      "x": -4.404,
+      "y": 1.708,
+      "z": -1.06,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0147",
+      "x": -4.41,
+      "y": -1.77,
+      "z": -0.795,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0148",
+      "x": -4.41,
+      "y": 1.761,
+      "z": -0.781,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0149",
+      "x": -4.402,
+      "y": -1.796,
+      "z": -0.532,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0150",
+      "x": -4.413,
+      "y": 1.801,
+      "z": -0.535,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0151",
+      "x": -4.4,
+      "y": -1.813,
+      "z": -0.263,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0152",
+      "x": -4.398,
+      "y": 1.813,
+      "z": -0.258,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0153",
+      "x": -4.388,
+      "y": -1.823,
+      "z": 0.004,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0154",
+      "x": -4.399,
+      "y": 1.808,
+      "z": 0.005,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0155",
+      "x": -4.397,
+      "y": -1.792,
+      "z": 0.253,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0156",
+      "x": -4.408,
+      "y": 1.807,
+      "z": 0.273,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0157",
+      "x": -4.409,
+      "y": -1.773,
+      "z": 0.521,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0158",
+      "x": -4.404,
+      "y": 1.769,
+      "z": 0.514,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0159",
+      "x": -4.408,
+      "y": -1.718,
+      "z": 0.785,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0160",
+      "x": -4.387,
+      "y": 1.707,
+      "z": 0.78,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0161",
+      "x": -4.392,
+      "y": -1.639,
+      "z": 1.039,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0162",
+      "x": -4.397,
+      "y": 1.628,
+      "z": 1.05,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0163",
+      "x": -4.406,
+      "y": -1.55,
+      "z": 1.302,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0164",
+      "x": -4.41,
+      "y": 1.538,
+      "z": 1.309,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0165",
+      "x": -4.403,
+      "y": -1.421,
+      "z": 1.584,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0166",
+      "x": -4.403,
+      "y": 1.419,
+      "z": 1.577,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0167",
+      "x": -4.407,
+      "y": -1.25,
+      "z": 1.84,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0168",
+      "x": -4.394,
+      "y": 1.249,
+      "z": 1.843,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0169",
+      "x": -4.409,
+      "y": -1.031,
+      "z": 2.101,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0170",
+      "x": -4.399,
+      "y": 1.026,
+      "z": 2.094,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0171",
+      "x": -4.005,
+      "y": -1.323,
+      "z": -2.103,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0172",
+      "x": -3.986,
+      "y": 1.324,
+      "z": -2.108,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0173",
+      "x": -4.004,
+      "y": -1.502,
+      "z": -1.833,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0174",
+      "x": -4.004,
+      "y": 1.503,
+      "z": -1.839,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0175",
+      "x": -3.995,
+      "y": -1.646,
+      "z": -1.586,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0176",
+      "x": -3.99,
+      "y": 1.648,
+      "z": -1.574,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0177",
+      "x": -4.008,
+      "y": -1.747,
+      "z": -1.322,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0178",
+      "x": -4.011,
+      "y": 1.756,
+      "z": -1.323,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0179",
+      "x": -4.01,
+      "y": -1.837,
+      "z": -1.04,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0180",
+      "x": -4.009,
+      "y": 1.839,
+      "z": -1.058,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0181",
+      "x": -4.001,
+      "y": -1.893,
+      "z": -0.797,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0182",
+      "x": -3.992,
+      "y": 1.89,
+      "z": -0.787,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0183",
+      "x": -3.995,
+      "y": -1.925,
+      "z": -0.521,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0184",
+      "x": -3.994,
+      "y": 1.931,
+      "z": -0.519,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0185",
+      "x": -3.998,
+      "y": -1.954,
+      "z": -0.258,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0186",
+      "x": -4.012,
+      "y": 1.956,
+      "z": -0.265,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0187",
+      "x": -4.007,
+      "y": -1.957,
+      "z": -0.002,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0188",
+      "x": -4.011,
+      "y": 1.953,
+      "z": 0.012,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0189",
+      "x": -3.987,
+      "y": -1.928,
+      "z": 0.252,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0190",
+      "x": -3.99,
+      "y": 1.93,
+      "z": 0.264,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0191",
+      "x": -3.987,
+      "y": -1.907,
+      "z": 0.524,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0192",
+      "x": -3.997,
+      "y": 1.905,
+      "z": 0.524,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0193",
+      "x": -4.002,
+      "y": -1.853,
+      "z": 0.793,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0194",
+      "x": -3.996,
+      "y": 1.852,
+      "z": 0.797,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0195",
+      "x": -3.996,
+      "y": -1.768,
+      "z": 1.045,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0196",
+      "x": -3.989,
+      "y": 1.766,
+      "z": 1.056,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0197",
+      "x": -4.014,
+      "y": -1.657,
+      "z": 1.31,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0198",
+      "x": -4,
+      "y": 1.656,
+      "z": 1.32,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0199",
+      "x": -4,
+      "y": -1.523,
+      "z": 1.582,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0200",
+      "x": -4.002,
+      "y": 1.514,
+      "z": 1.569,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0201",
+      "x": -3.996,
+      "y": -1.345,
+      "z": 1.829,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0202",
+      "x": -3.992,
+      "y": 1.345,
+      "z": 1.826,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0203",
+      "x": -3.992,
+      "y": -1.12,
+      "z": 2.099,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0204",
+      "x": -4.014,
+      "y": 1.119,
+      "z": 2.093,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0205",
+      "x": -3.604,
+      "y": -1.418,
+      "z": -2.105,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0206",
+      "x": -3.604,
+      "y": 1.418,
+      "z": -2.104,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0207",
+      "x": -3.6,
+      "y": -1.611,
+      "z": -1.844,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0208",
+      "x": -3.587,
+      "y": 1.595,
+      "z": -1.844,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0209",
+      "x": -3.588,
+      "y": -1.759,
+      "z": -1.585,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0210",
+      "x": -3.586,
+      "y": 1.757,
+      "z": -1.578,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0211",
+      "x": -3.588,
+      "y": -1.871,
+      "z": -1.316,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0212",
+      "x": -3.6,
+      "y": 1.866,
+      "z": -1.316,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0213",
+      "x": -3.599,
+      "y": -1.948,
+      "z": -1.042,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0214",
+      "x": -3.61,
+      "y": 1.952,
+      "z": -1.054,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0215",
+      "x": -3.61,
+      "y": -2.005,
+      "z": -0.791,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0216",
+      "x": -3.597,
+      "y": 2.021,
+      "z": -0.787,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0217",
+      "x": -3.597,
+      "y": -2.051,
+      "z": -0.515,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0218",
+      "x": -3.613,
+      "y": 2.044,
+      "z": -0.517,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0219",
+      "x": -3.609,
+      "y": -2.081,
+      "z": -0.259,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0220",
+      "x": -3.588,
+      "y": 2.077,
+      "z": -0.272,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0221",
+      "x": -3.59,
+      "y": -2.081,
+      "z": -0.009,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0222",
+      "x": -3.589,
+      "y": 2.078,
+      "z": 0.003,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0223",
+      "x": -3.592,
+      "y": -2.063,
+      "z": 0.274,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0224",
+      "x": -3.612,
+      "y": 2.045,
+      "z": 0.257,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0225",
+      "x": -3.592,
+      "y": -2.013,
+      "z": 0.522,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0226",
+      "x": -3.605,
+      "y": 2.013,
+      "z": 0.515,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0227",
+      "x": -3.614,
+      "y": -1.961,
+      "z": 0.796,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0228",
+      "x": -3.59,
+      "y": 1.958,
+      "z": 0.778,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0229",
+      "x": -3.59,
+      "y": -1.87,
+      "z": 1.041,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0230",
+      "x": -3.59,
+      "y": 1.861,
+      "z": 1.055,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0231",
+      "x": -3.595,
+      "y": -1.753,
+      "z": 1.305,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0232",
+      "x": -3.612,
+      "y": 1.761,
+      "z": 1.323,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0233",
+      "x": -3.614,
+      "y": -1.612,
+      "z": 1.586,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0234",
+      "x": -3.598,
+      "y": 1.615,
+      "z": 1.572,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0235",
+      "x": -3.605,
+      "y": -1.439,
+      "z": 1.844,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0236",
+      "x": -3.588,
+      "y": 1.433,
+      "z": 1.845,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0237",
+      "x": -3.595,
+      "y": -1.174,
+      "z": 2.103,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0238",
+      "x": -3.61,
+      "y": 1.177,
+      "z": 2.107,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0239",
+      "x": -3.202,
+      "y": -1.485,
+      "z": -2.108,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0240",
+      "x": -3.203,
+      "y": 1.477,
+      "z": -2.09,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0241",
+      "x": -3.203,
+      "y": -1.671,
+      "z": -1.831,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0242",
+      "x": -3.209,
+      "y": 1.688,
+      "z": -1.834,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0243",
+      "x": -3.187,
+      "y": -1.829,
+      "z": -1.581,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0244",
+      "x": -3.202,
+      "y": 1.824,
+      "z": -1.579,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0245",
+      "x": -3.205,
+      "y": -1.961,
+      "z": -1.301,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0246",
+      "x": -3.191,
+      "y": 1.953,
+      "z": -1.312,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0247",
+      "x": -3.188,
+      "y": -2.041,
+      "z": -1.05,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0248",
+      "x": -3.202,
+      "y": 2.037,
+      "z": -1.051,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0249",
+      "x": -3.188,
+      "y": -2.113,
+      "z": -0.778,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0250",
+      "x": -3.205,
+      "y": 2.113,
+      "z": -0.776,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0251",
+      "x": -3.195,
+      "y": -2.151,
+      "z": -0.52,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0252",
+      "x": -3.205,
+      "y": 2.159,
+      "z": -0.531,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0253",
+      "x": -3.205,
+      "y": -2.165,
+      "z": -0.252,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0254",
+      "x": -3.211,
+      "y": 2.165,
+      "z": -0.259,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0255",
+      "x": -3.206,
+      "y": -2.176,
+      "z": 0.001,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0256",
+      "x": -3.208,
+      "y": 2.174,
+      "z": 0.003,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0257",
+      "x": -3.206,
+      "y": -2.152,
+      "z": 0.274,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0258",
+      "x": -3.195,
+      "y": 2.153,
+      "z": 0.271,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0259",
+      "x": -3.197,
+      "y": -2.123,
+      "z": 0.526,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0260",
+      "x": -3.213,
+      "y": 2.122,
+      "z": 0.531,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0261",
+      "x": -3.199,
+      "y": -2.045,
+      "z": 0.776,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0262",
+      "x": -3.204,
+      "y": 2.057,
+      "z": 0.796,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0263",
+      "x": -3.196,
+      "y": -1.957,
+      "z": 1.05,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0264",
+      "x": -3.19,
+      "y": 1.963,
+      "z": 1.062,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0265",
+      "x": -3.203,
+      "y": -1.848,
+      "z": 1.306,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0266",
+      "x": -3.205,
+      "y": 1.839,
+      "z": 1.302,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0267",
+      "x": -3.189,
+      "y": -1.696,
+      "z": 1.582,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0268",
+      "x": -3.2,
+      "y": 1.694,
+      "z": 1.564,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0269",
+      "x": -3.192,
+      "y": -1.502,
+      "z": 1.841,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0270",
+      "x": -3.208,
+      "y": 1.505,
+      "z": 1.835,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0271",
+      "x": -3.202,
+      "y": -1.246,
+      "z": 2.104,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0272",
+      "x": -3.2,
+      "y": 1.245,
+      "z": 2.108,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0273",
+      "x": -2.789,
+      "y": -1.54,
+      "z": -2.104,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0274",
+      "x": -2.81,
+      "y": 1.529,
+      "z": -2.099,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0275",
+      "x": -2.794,
+      "y": -1.741,
+      "z": -1.839,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0276",
+      "x": -2.803,
+      "y": 1.751,
+      "z": -1.83,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0277",
+      "x": -2.795,
+      "y": -1.898,
+      "z": -1.58,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0278",
+      "x": -2.798,
+      "y": 1.898,
+      "z": -1.57,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0279",
+      "x": -2.803,
+      "y": -2.026,
+      "z": -1.303,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0280",
+      "x": -2.812,
+      "y": 2.035,
+      "z": -1.31,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0281",
+      "x": -2.804,
+      "y": -2.12,
+      "z": -1.046,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0282",
+      "x": -2.789,
+      "y": 2.117,
+      "z": -1.043,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0283",
+      "x": -2.812,
+      "y": -2.196,
+      "z": -0.782,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0284",
+      "x": -2.809,
+      "y": 2.182,
+      "z": -0.784,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0285",
+      "x": -2.811,
+      "y": -2.233,
+      "z": -0.527,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0286",
+      "x": -2.788,
+      "y": 2.244,
+      "z": -0.514,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0287",
+      "x": -2.798,
+      "y": -2.267,
+      "z": -0.252,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0288",
+      "x": -2.793,
+      "y": 2.25,
+      "z": -0.269,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0289",
+      "x": -2.803,
+      "y": -2.265,
+      "z": 0.01,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0290",
+      "x": -2.809,
+      "y": 2.265,
+      "z": -0.01,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0291",
+      "x": -2.814,
+      "y": -2.238,
+      "z": 0.274,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0292",
+      "x": -2.787,
+      "y": 2.236,
+      "z": 0.255,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0293",
+      "x": -2.811,
+      "y": -2.19,
+      "z": 0.536,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0294",
+      "x": -2.787,
+      "y": 2.189,
+      "z": 0.521,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0295",
+      "x": -2.786,
+      "y": -2.135,
+      "z": 0.794,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0296",
+      "x": -2.791,
+      "y": 2.124,
+      "z": 0.793,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0297",
+      "x": -2.799,
+      "y": -2.038,
+      "z": 1.054,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0298",
+      "x": -2.788,
+      "y": 2.046,
+      "z": 1.06,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0299",
+      "x": -2.804,
+      "y": -1.923,
+      "z": 1.307,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0300",
+      "x": -2.813,
+      "y": 1.915,
+      "z": 1.302,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0301",
+      "x": -2.796,
+      "y": -1.766,
+      "z": 1.582,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0302",
+      "x": -2.789,
+      "y": 1.77,
+      "z": 1.57,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0303",
+      "x": -2.81,
+      "y": -1.556,
+      "z": 1.842,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0304",
+      "x": -2.788,
+      "y": 1.56,
+      "z": 1.839,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0305",
+      "x": -2.801,
+      "y": -1.282,
+      "z": 2.11,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0306",
+      "x": -2.793,
+      "y": 1.293,
+      "z": 2.094,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0307",
+      "x": -2.414,
+      "y": -1.579,
+      "z": -2.103,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0308",
+      "x": -2.39,
+      "y": 1.583,
+      "z": -2.094,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0309",
+      "x": -2.406,
+      "y": -1.798,
+      "z": -1.833,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0310",
+      "x": -2.406,
+      "y": 1.81,
+      "z": -1.849,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0311",
+      "x": -2.407,
+      "y": -1.971,
+      "z": -1.569,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0312",
+      "x": -2.391,
+      "y": 1.956,
+      "z": -1.566,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0313",
+      "x": -2.401,
+      "y": -2.093,
+      "z": -1.311,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0314",
+      "x": -2.405,
+      "y": 2.095,
+      "z": -1.32,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0315",
+      "x": -2.409,
+      "y": -2.184,
+      "z": -1.057,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0316",
+      "x": -2.389,
+      "y": 2.188,
+      "z": -1.052,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0317",
+      "x": -2.396,
+      "y": -2.257,
+      "z": -0.799,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0318",
+      "x": -2.396,
+      "y": 2.252,
+      "z": -0.781,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0319",
+      "x": -2.403,
+      "y": -2.301,
+      "z": -0.537,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0320",
+      "x": -2.394,
+      "y": 2.301,
+      "z": -0.527,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0321",
+      "x": -2.396,
+      "y": -2.332,
+      "z": -0.261,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0322",
+      "x": -2.392,
+      "y": 2.337,
+      "z": -0.272,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0323",
+      "x": -2.401,
+      "y": -2.338,
+      "z": 0,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0324",
+      "x": -2.392,
+      "y": 2.329,
+      "z": 0.002,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0325",
+      "x": -2.388,
+      "y": -2.308,
+      "z": 0.253,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0326",
+      "x": -2.403,
+      "y": 2.305,
+      "z": 0.265,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0327",
+      "x": -2.397,
+      "y": -2.261,
+      "z": 0.527,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0328",
+      "x": -2.399,
+      "y": 2.262,
+      "z": 0.517,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0329",
+      "x": -2.395,
+      "y": -2.205,
+      "z": 0.784,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0330",
+      "x": -2.412,
+      "y": 2.188,
+      "z": 0.786,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0331",
+      "x": -2.405,
+      "y": -2.111,
+      "z": 1.059,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0332",
+      "x": -2.407,
+      "y": 2.105,
+      "z": 1.054,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0333",
+      "x": -2.39,
+      "y": -1.984,
+      "z": 1.315,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0334",
+      "x": -2.408,
+      "y": 1.969,
+      "z": 1.321,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0335",
+      "x": -2.404,
+      "y": -1.82,
+      "z": 1.564,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0336",
+      "x": -2.395,
+      "y": 1.816,
+      "z": 1.575,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0337",
+      "x": -2.403,
+      "y": -1.615,
+      "z": 1.835,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0338",
+      "x": -2.407,
+      "y": 1.615,
+      "z": 1.849,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0339",
+      "x": -2.397,
+      "y": -1.324,
+      "z": 2.092,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0340",
+      "x": -2.395,
+      "y": 1.331,
+      "z": 2.101,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0341",
+      "x": -2.007,
+      "y": -1.617,
+      "z": -2.104,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0342",
+      "x": -2.012,
+      "y": 1.619,
+      "z": -2.099,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0343",
+      "x": -2.011,
+      "y": -1.85,
+      "z": -1.842,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0344",
+      "x": -2.005,
+      "y": 1.855,
+      "z": -1.827,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0345",
+      "x": -2.003,
+      "y": -2.019,
+      "z": -1.568,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0346",
+      "x": -1.999,
+      "y": 2.005,
+      "z": -1.569,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0347",
+      "x": -1.995,
+      "y": -2.147,
+      "z": -1.305,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0348",
+      "x": -2.001,
+      "y": 2.141,
+      "z": -1.312,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0349",
+      "x": -2.013,
+      "y": -2.245,
+      "z": -1.06,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0350",
+      "x": -2.012,
+      "y": 2.251,
+      "z": -1.049,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0351",
+      "x": -2.007,
+      "y": -2.32,
+      "z": -0.784,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0352",
+      "x": -1.996,
+      "y": 2.31,
+      "z": -0.799,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0353",
+      "x": -1.993,
+      "y": -2.372,
+      "z": -0.519,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0354",
+      "x": -1.996,
+      "y": 2.357,
+      "z": -0.516,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0355",
+      "x": -2.01,
+      "y": -2.382,
+      "z": -0.256,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0356",
+      "x": -2.005,
+      "y": 2.392,
+      "z": -0.268,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0357",
+      "x": -1.995,
+      "y": -2.387,
+      "z": -0.011,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0358",
+      "x": -1.99,
+      "y": 2.386,
+      "z": 0.007,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0359",
+      "x": -2.011,
+      "y": -2.377,
+      "z": 0.262,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0360",
+      "x": -1.992,
+      "y": 2.367,
+      "z": 0.265,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0361",
+      "x": -1.99,
+      "y": -2.324,
+      "z": 0.524,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0362",
+      "x": -2.013,
+      "y": 2.315,
+      "z": 0.531,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0363",
+      "x": -1.996,
+      "y": -2.262,
+      "z": 0.793,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0364",
+      "x": -2.001,
+      "y": 2.26,
+      "z": 0.78,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0365",
+      "x": -2.002,
+      "y": -2.152,
+      "z": 1.054,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0366",
+      "x": -1.991,
+      "y": 2.153,
+      "z": 1.058,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0367",
+      "x": -2.005,
+      "y": -2.025,
+      "z": 1.316,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0368",
+      "x": -1.996,
+      "y": 2.031,
+      "z": 1.312,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0369",
+      "x": -1.999,
+      "y": -1.86,
+      "z": 1.566,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0370",
+      "x": -2.002,
+      "y": 1.857,
+      "z": 1.587,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0371",
+      "x": -2.006,
+      "y": -1.638,
+      "z": 1.828,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0372",
+      "x": -1.996,
+      "y": 1.648,
+      "z": 1.844,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0373",
+      "x": -2.007,
+      "y": -1.357,
+      "z": 2.105,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0374",
+      "x": -2.008,
+      "y": 1.352,
+      "z": 2.096,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0375",
+      "x": -1.593,
+      "y": -1.661,
+      "z": -2.11,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0376",
+      "x": -1.599,
+      "y": 1.66,
+      "z": -2.098,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0377",
+      "x": -1.588,
+      "y": -1.879,
+      "z": -1.849,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0378",
+      "x": -1.59,
+      "y": 1.873,
+      "z": -1.848,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0379",
+      "x": -1.591,
+      "y": -2.055,
+      "z": -1.571,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0380",
+      "x": -1.613,
+      "y": 2.055,
+      "z": -1.579,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0381",
+      "x": -1.59,
+      "y": -2.179,
+      "z": -1.324,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0382",
+      "x": -1.606,
+      "y": 2.188,
+      "z": -1.31,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0383",
+      "x": -1.603,
+      "y": -2.284,
+      "z": -1.054,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0384",
+      "x": -1.594,
+      "y": 2.281,
+      "z": -1.058,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0385",
+      "x": -1.597,
+      "y": -2.36,
+      "z": -0.799,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0386",
+      "x": -1.588,
+      "y": 2.372,
+      "z": -0.793,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0387",
+      "x": -1.612,
+      "y": -2.421,
+      "z": -0.529,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0388",
+      "x": -1.598,
+      "y": 2.407,
+      "z": -0.527,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0389",
+      "x": -1.603,
+      "y": -2.433,
+      "z": -0.258,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0390",
+      "x": -1.613,
+      "y": 2.438,
+      "z": -0.257,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0391",
+      "x": -1.588,
+      "y": -2.43,
+      "z": -0.004,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0392",
+      "x": -1.587,
+      "y": 2.438,
+      "z": -0.011,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0393",
+      "x": -1.589,
+      "y": -2.415,
+      "z": 0.267,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0394",
+      "x": -1.611,
+      "y": 2.406,
+      "z": 0.272,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0395",
+      "x": -1.607,
+      "y": -2.366,
+      "z": 0.536,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0396",
+      "x": -1.589,
+      "y": 2.365,
+      "z": 0.537,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0397",
+      "x": -1.593,
+      "y": -2.291,
+      "z": 0.784,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0398",
+      "x": -1.593,
+      "y": 2.297,
+      "z": 0.788,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0399",
+      "x": -1.599,
+      "y": -2.206,
+      "z": 1.045,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0400",
+      "x": -1.601,
+      "y": 2.196,
+      "z": 1.041,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0401",
+      "x": -1.606,
+      "y": -2.064,
+      "z": 1.303,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0402",
+      "x": -1.598,
+      "y": 2.077,
+      "z": 1.318,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0403",
+      "x": -1.613,
+      "y": -1.891,
+      "z": 1.583,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0404",
+      "x": -1.59,
+      "y": 1.903,
+      "z": 1.578,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0405",
+      "x": -1.591,
+      "y": -1.671,
+      "z": 1.843,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0406",
+      "x": -1.593,
+      "y": 1.678,
+      "z": 1.838,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0407",
+      "x": -1.595,
+      "y": -1.391,
+      "z": 2.098,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0408",
+      "x": -1.612,
+      "y": 1.388,
+      "z": 2.089,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0409",
+      "x": -1.197,
+      "y": -1.691,
+      "z": -2.095,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0410",
+      "x": -1.202,
+      "y": 1.692,
+      "z": -2.102,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0411",
+      "x": -1.198,
+      "y": -1.907,
+      "z": -1.849,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0412",
+      "x": -1.212,
+      "y": 1.9,
+      "z": -1.838,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0413",
+      "x": -1.194,
+      "y": -2.091,
+      "z": -1.565,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0414",
+      "x": -1.202,
+      "y": 2.091,
+      "z": -1.575,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0415",
+      "x": -1.211,
+      "y": -2.215,
+      "z": -1.311,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0416",
+      "x": -1.206,
+      "y": 2.224,
+      "z": -1.314,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0417",
+      "x": -1.197,
+      "y": -2.325,
+      "z": -1.044,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0418",
+      "x": -1.196,
+      "y": 2.322,
+      "z": -1.053,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0419",
+      "x": -1.205,
+      "y": -2.406,
+      "z": -0.777,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0420",
+      "x": -1.203,
+      "y": 2.403,
+      "z": -0.787,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0421",
+      "x": -1.208,
+      "y": -2.439,
+      "z": -0.525,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0422",
+      "x": -1.206,
+      "y": 2.444,
+      "z": -0.534,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0423",
+      "x": -1.2,
+      "y": -2.468,
+      "z": -0.252,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0424",
+      "x": -1.19,
+      "y": 2.479,
+      "z": -0.262,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0425",
+      "x": -1.186,
+      "y": -2.467,
+      "z": -0.004,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0426",
+      "x": -1.2,
+      "y": 2.471,
+      "z": -0.009,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0427",
+      "x": -1.196,
+      "y": -2.442,
+      "z": 0.274,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0428",
+      "x": -1.201,
+      "y": 2.443,
+      "z": 0.263,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0429",
+      "x": -1.191,
+      "y": -2.408,
+      "z": 0.527,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0430",
+      "x": -1.2,
+      "y": 2.394,
+      "z": 0.517,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0431",
+      "x": -1.214,
+      "y": -2.334,
+      "z": 0.787,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0432",
+      "x": -1.198,
+      "y": 2.335,
+      "z": 0.78,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0433",
+      "x": -1.197,
+      "y": -2.229,
+      "z": 1.051,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0434",
+      "x": -1.187,
+      "y": 2.232,
+      "z": 1.06,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0435",
+      "x": -1.2,
+      "y": -2.091,
+      "z": 1.303,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0436",
+      "x": -1.207,
+      "y": 2.097,
+      "z": 1.31,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0437",
+      "x": -1.197,
+      "y": -1.921,
+      "z": 1.577,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0438",
+      "x": -1.19,
+      "y": 1.917,
+      "z": 1.567,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0439",
+      "x": -1.198,
+      "y": -1.7,
+      "z": 1.832,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0440",
+      "x": -1.193,
+      "y": 1.705,
+      "z": 1.827,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0441",
+      "x": -1.198,
+      "y": -1.403,
+      "z": 2.096,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0442",
+      "x": -1.205,
+      "y": 1.411,
+      "z": 2.102,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0443",
+      "x": -0.804,
+      "y": -1.699,
+      "z": -2.109,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0444",
+      "x": -0.799,
+      "y": 1.706,
+      "z": -2.108,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0445",
+      "x": -0.802,
+      "y": -1.934,
+      "z": -1.826,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0446",
+      "x": -0.792,
+      "y": 1.92,
+      "z": -1.83,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0447",
+      "x": -0.813,
+      "y": -2.109,
+      "z": -1.575,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0448",
+      "x": -0.795,
+      "y": 2.115,
+      "z": -1.565,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0449",
+      "x": -0.791,
+      "y": -2.241,
+      "z": -1.319,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0450",
+      "x": -0.802,
+      "y": 2.237,
+      "z": -1.304,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0451",
+      "x": -0.793,
+      "y": -2.355,
+      "z": -1.04,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0452",
+      "x": -0.811,
+      "y": 2.345,
+      "z": -1.049,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0453",
+      "x": -0.793,
+      "y": -2.429,
+      "z": -0.794,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0454",
+      "x": -0.8,
+      "y": 2.432,
+      "z": -0.792,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0455",
+      "x": -0.799,
+      "y": -2.467,
+      "z": -0.534,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0456",
+      "x": -0.788,
+      "y": 2.479,
+      "z": -0.528,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0457",
+      "x": -0.807,
+      "y": -2.502,
+      "z": -0.263,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0458",
+      "x": -0.796,
+      "y": 2.489,
+      "z": -0.27,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0459",
+      "x": -0.807,
+      "y": -2.49,
+      "z": -0.005,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0460",
+      "x": -0.798,
+      "y": 2.49,
+      "z": 0,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0461",
+      "x": -0.796,
+      "y": -2.478,
+      "z": 0.265,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0462",
+      "x": -0.791,
+      "y": 2.48,
+      "z": 0.26,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0463",
+      "x": -0.798,
+      "y": -2.42,
+      "z": 0.524,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0464",
+      "x": -0.788,
+      "y": 2.421,
+      "z": 0.532,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0465",
+      "x": -0.81,
+      "y": -2.36,
+      "z": 0.781,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0466",
+      "x": -0.787,
+      "y": 2.347,
+      "z": 0.777,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0467",
+      "x": -0.809,
+      "y": -2.255,
+      "z": 1.058,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0468",
+      "x": -0.814,
+      "y": 2.257,
+      "z": 1.043,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0469",
+      "x": -0.802,
+      "y": -2.109,
+      "z": 1.302,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0470",
+      "x": -0.796,
+      "y": 2.124,
+      "z": 1.305,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0471",
+      "x": -0.806,
+      "y": -1.943,
+      "z": 1.575,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0472",
+      "x": -0.808,
+      "y": 1.939,
+      "z": 1.582,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0473",
+      "x": -0.808,
+      "y": -1.724,
+      "z": 1.843,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0474",
+      "x": -0.797,
+      "y": 1.729,
+      "z": 1.832,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0475",
+      "x": -0.796,
+      "y": -1.42,
+      "z": 2.092,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0476",
+      "x": -0.809,
+      "y": 1.424,
+      "z": 2.11,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0477",
+      "x": -0.392,
+      "y": -1.701,
+      "z": -2.11,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0478",
+      "x": -0.389,
+      "y": 1.708,
+      "z": -2.099,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0479",
+      "x": -0.403,
+      "y": -1.94,
+      "z": -1.834,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0480",
+      "x": -0.407,
+      "y": 1.95,
+      "z": -1.834,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0481",
+      "x": -0.407,
+      "y": -2.123,
+      "z": -1.572,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0482",
+      "x": -0.39,
+      "y": 2.119,
+      "z": -1.57,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0483",
+      "x": -0.387,
+      "y": -2.255,
+      "z": -1.301,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0484",
+      "x": -0.396,
+      "y": 2.261,
+      "z": -1.304,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0485",
+      "x": -0.409,
+      "y": -2.362,
+      "z": -1.042,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0486",
+      "x": -0.4,
+      "y": 2.354,
+      "z": -1.055,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0487",
+      "x": -0.388,
+      "y": -2.444,
+      "z": -0.796,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0488",
+      "x": -0.414,
+      "y": 2.441,
+      "z": -0.798,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0489",
+      "x": -0.405,
+      "y": -2.477,
+      "z": -0.52,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0490",
+      "x": -0.41,
+      "y": 2.479,
+      "z": -0.53,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0491",
+      "x": -0.41,
+      "y": -2.507,
+      "z": -0.274,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0492",
+      "x": -0.398,
+      "y": 2.508,
+      "z": -0.265,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0493",
+      "x": -0.396,
+      "y": -2.504,
+      "z": -0.007,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0494",
+      "x": -0.391,
+      "y": 2.518,
+      "z": 0.003,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0495",
+      "x": -0.396,
+      "y": -2.494,
+      "z": 0.265,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0496",
+      "x": -0.408,
+      "y": 2.483,
+      "z": 0.264,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0497",
+      "x": -0.41,
+      "y": -2.442,
+      "z": 0.537,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0498",
+      "x": -0.39,
+      "y": 2.438,
+      "z": 0.516,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0499",
+      "x": -0.396,
+      "y": -2.371,
+      "z": 0.791,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0500",
+      "x": -0.405,
+      "y": 2.376,
+      "z": 0.799,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0501",
+      "x": -0.387,
+      "y": -2.271,
+      "z": 1.059,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0502",
+      "x": -0.403,
+      "y": 2.27,
+      "z": 1.059,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0503",
+      "x": -0.403,
+      "y": -2.133,
+      "z": 1.316,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0504",
+      "x": -0.413,
+      "y": 2.126,
+      "z": 1.317,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0505",
+      "x": -0.404,
+      "y": -1.962,
+      "z": 1.579,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0506",
+      "x": -0.388,
+      "y": 1.956,
+      "z": 1.565,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0507",
+      "x": -0.389,
+      "y": -1.725,
+      "z": 1.835,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0508",
+      "x": -0.389,
+      "y": 1.732,
+      "z": 1.834,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0509",
+      "x": -0.407,
+      "y": -1.422,
+      "z": 2.112,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0510",
+      "x": -0.406,
+      "y": 1.427,
+      "z": 2.11,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0511",
+      "x": -0.001,
+      "y": -1.72,
+      "z": -2.102,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0512",
+      "x": -0.009,
+      "y": 1.721,
+      "z": -2.105,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0513",
+      "x": -0.004,
+      "y": -1.944,
+      "z": -1.836,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0514",
+      "x": -0.009,
+      "y": 1.936,
+      "z": -1.828,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0515",
+      "x": -0.011,
+      "y": -2.132,
+      "z": -1.576,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0516",
+      "x": -0.013,
+      "y": 2.114,
+      "z": -1.579,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0517",
+      "x": -0.004,
+      "y": -2.27,
+      "z": -1.309,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0518",
+      "x": 0.013,
+      "y": 2.263,
+      "z": -1.314,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0519",
+      "x": 0.006,
+      "y": -2.363,
+      "z": -1.041,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0520",
+      "x": 0.007,
+      "y": 2.359,
+      "z": -1.04,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0521",
+      "x": -0.009,
+      "y": -2.441,
+      "z": -0.784,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0522",
+      "x": 0.003,
+      "y": 2.439,
+      "z": -0.776,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0523",
+      "x": 0.008,
+      "y": -2.497,
+      "z": -0.514,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0524",
+      "x": -0.01,
+      "y": 2.497,
+      "z": -0.521,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0525",
+      "x": -0.001,
+      "y": -2.519,
+      "z": -0.26,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0526",
+      "x": -0.004,
+      "y": 2.526,
+      "z": -0.27,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0527",
+      "x": -0.004,
+      "y": -2.514,
+      "z": 0.008,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0528",
+      "x": 0.008,
+      "y": 2.52,
+      "z": -0.007,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0529",
+      "x": 0.008,
+      "y": -2.488,
+      "z": 0.263,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0530",
+      "x": 0.009,
+      "y": 2.503,
+      "z": 0.265,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0531",
+      "x": 0.005,
+      "y": -2.44,
+      "z": 0.536,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0532",
+      "x": 0.013,
+      "y": 2.446,
+      "z": 0.518,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0533",
+      "x": 0,
+      "y": -2.367,
+      "z": 0.776,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0534",
+      "x": -0.001,
+      "y": 2.382,
+      "z": 0.794,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0535",
+      "x": -0.01,
+      "y": -2.263,
+      "z": 1.054,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0536",
+      "x": 0,
+      "y": 2.269,
+      "z": 1.051,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0537",
+      "x": 0.014,
+      "y": -2.142,
+      "z": 1.303,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0538",
+      "x": -0.013,
+      "y": 2.13,
+      "z": 1.321,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0539",
+      "x": -0.005,
+      "y": -1.957,
+      "z": 1.58,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0540",
+      "x": 0.008,
+      "y": 1.963,
+      "z": 1.578,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0541",
+      "x": 0.011,
+      "y": -1.738,
+      "z": 1.827,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0542",
+      "x": -0.002,
+      "y": 1.733,
+      "z": 1.839,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0543",
+      "x": -0.009,
+      "y": -1.438,
+      "z": 2.11,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0544",
+      "x": -0.005,
+      "y": 1.438,
+      "z": 2.101,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0545",
+      "x": 0.413,
+      "y": -1.706,
+      "z": -2.09,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0546",
+      "x": 0.401,
+      "y": 1.71,
+      "z": -2.091,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0547",
+      "x": 0.388,
+      "y": -1.947,
+      "z": -1.848,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0548",
+      "x": 0.389,
+      "y": 1.945,
+      "z": -1.833,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0549",
+      "x": 0.398,
+      "y": -2.116,
+      "z": -1.587,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0550",
+      "x": 0.388,
+      "y": 2.123,
+      "z": -1.581,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0551",
+      "x": 0.396,
+      "y": -2.261,
+      "z": -1.322,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0552",
+      "x": 0.41,
+      "y": 2.264,
+      "z": -1.318,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0553",
+      "x": 0.409,
+      "y": -2.37,
+      "z": -1.042,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0554",
+      "x": 0.396,
+      "y": 2.36,
+      "z": -1.059,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0555",
+      "x": 0.4,
+      "y": -2.439,
+      "z": -0.785,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0556",
+      "x": 0.401,
+      "y": 2.445,
+      "z": -0.782,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0557",
+      "x": 0.41,
+      "y": -2.479,
+      "z": -0.516,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0558",
+      "x": 0.408,
+      "y": -2.509,
+      "z": -0.267,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0559",
+      "x": 0.41,
+      "y": -2.507,
+      "z": 0,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0560",
+      "x": 0.414,
+      "y": -2.492,
+      "z": 0.27,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0561",
+      "x": 0.396,
+      "y": -2.435,
+      "z": 0.518,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0562",
+      "x": 0.412,
+      "y": -2.375,
+      "z": 0.797,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0563",
+      "x": 0.409,
+      "y": -2.265,
+      "z": 1.039,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0564",
+      "x": 0.395,
+      "y": 2.265,
+      "z": 1.053,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0565",
+      "x": 0.386,
+      "y": -2.123,
+      "z": 1.304,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0566",
+      "x": 0.389,
+      "y": 2.129,
+      "z": 1.307,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0567",
+      "x": 0.402,
+      "y": -1.949,
+      "z": 1.571,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0568",
+      "x": 0.41,
+      "y": 1.963,
+      "z": 1.565,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0569",
+      "x": 0.39,
+      "y": -1.742,
+      "z": 1.832,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0570",
+      "x": 0.408,
+      "y": 1.735,
+      "z": 1.835,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0571",
+      "x": 0.403,
+      "y": -1.44,
+      "z": 2.089,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0572",
+      "x": 0.404,
+      "y": 1.423,
+      "z": 2.1,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0573",
+      "x": 0.8,
+      "y": -1.705,
+      "z": -2.111,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0574",
+      "x": 0.802,
+      "y": 1.705,
+      "z": -2.099,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0575",
+      "x": 0.801,
+      "y": -1.921,
+      "z": -1.849,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0576",
+      "x": 0.793,
+      "y": 1.926,
+      "z": -1.83,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0577",
+      "x": 0.806,
+      "y": -2.099,
+      "z": -1.566,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0578",
+      "x": 0.804,
+      "y": 2.103,
+      "z": -1.573,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0579",
+      "x": 0.808,
+      "y": -2.237,
+      "z": -1.322,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0580",
+      "x": 0.79,
+      "y": 2.244,
+      "z": -1.308,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0581",
+      "x": 0.809,
+      "y": -2.339,
+      "z": -1.051,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0582",
+      "x": 0.8,
+      "y": 2.341,
+      "z": -1.059,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0583",
+      "x": 0.797,
+      "y": -2.413,
+      "z": -0.788,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0584",
+      "x": 0.794,
+      "y": 2.42,
+      "z": -0.793,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0585",
+      "x": 0.811,
+      "y": -2.469,
+      "z": -0.516,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0586",
+      "x": 0.793,
+      "y": -2.499,
+      "z": -0.268,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0587",
+      "x": 0.795,
+      "y": -2.503,
+      "z": 0,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0588",
+      "x": 0.802,
+      "y": -2.484,
+      "z": 0.252,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0589",
+      "x": 0.802,
+      "y": -2.43,
+      "z": 0.515,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0590",
+      "x": 0.794,
+      "y": -2.351,
+      "z": 0.782,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0591",
+      "x": 0.8,
+      "y": -2.256,
+      "z": 1.059,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0592",
+      "x": 0.801,
+      "y": 2.245,
+      "z": 1.062,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0593",
+      "x": 0.808,
+      "y": -2.124,
+      "z": 1.304,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0594",
+      "x": 0.788,
+      "y": 2.115,
+      "z": 1.317,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0595",
+      "x": 0.801,
+      "y": -1.952,
+      "z": 1.575,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0596",
+      "x": 0.806,
+      "y": 1.953,
+      "z": 1.571,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0597",
+      "x": 0.791,
+      "y": -1.726,
+      "z": 1.834,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0598",
+      "x": 0.802,
+      "y": 1.726,
+      "z": 1.836,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0599",
+      "x": 0.804,
+      "y": -1.424,
+      "z": 2.108,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0600",
+      "x": 0.807,
+      "y": 1.426,
+      "z": 2.103,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0601",
+      "x": 1.186,
+      "y": -1.678,
+      "z": -2.107,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0602",
+      "x": 1.201,
+      "y": 1.689,
+      "z": -2.098,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0603",
+      "x": 1.204,
+      "y": -1.906,
+      "z": -1.841,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0604",
+      "x": 1.187,
+      "y": 1.902,
+      "z": -1.828,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0605",
+      "x": 1.204,
+      "y": -2.076,
+      "z": -1.587,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0606",
+      "x": 1.201,
+      "y": 2.091,
+      "z": -1.574,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0607",
+      "x": 1.191,
+      "y": -2.226,
+      "z": -1.305,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0608",
+      "x": 1.191,
+      "y": 2.226,
+      "z": -1.304,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0609",
+      "x": 1.199,
+      "y": -2.321,
+      "z": -1.044,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0610",
+      "x": 1.211,
+      "y": 2.33,
+      "z": -1.061,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0611",
+      "x": 1.21,
+      "y": -2.405,
+      "z": -0.785,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0612",
+      "x": 1.212,
+      "y": 2.391,
+      "z": -0.779,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0613",
+      "x": 1.198,
+      "y": -2.437,
+      "z": -0.516,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0614",
+      "x": 1.205,
+      "y": -2.463,
+      "z": -0.259,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0615",
+      "x": 1.188,
+      "y": -2.475,
+      "z": 0.01,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0616",
+      "x": 1.206,
+      "y": -2.446,
+      "z": 0.259,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0617",
+      "x": 1.199,
+      "y": -2.395,
+      "z": 0.519,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0618",
+      "x": 1.186,
+      "y": -2.324,
+      "z": 0.783,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0619",
+      "x": 1.21,
+      "y": -2.222,
+      "z": 1.052,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0620",
+      "x": 1.205,
+      "y": 2.225,
+      "z": 1.059,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0621",
+      "x": 1.205,
+      "y": -2.094,
+      "z": 1.303,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0622",
+      "x": 1.197,
+      "y": 2.101,
+      "z": 1.321,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0623",
+      "x": 1.203,
+      "y": -1.926,
+      "z": 1.578,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0624",
+      "x": 1.194,
+      "y": 1.921,
+      "z": 1.587,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0625",
+      "x": 1.209,
+      "y": -1.709,
+      "z": 1.843,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0626",
+      "x": 1.196,
+      "y": 1.699,
+      "z": 1.839,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0627",
+      "x": 1.206,
+      "y": -1.399,
+      "z": 2.103,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0628",
+      "x": 1.187,
+      "y": 1.411,
+      "z": 2.1,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0629",
+      "x": 1.598,
+      "y": -1.656,
+      "z": -2.103,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0630",
+      "x": 1.597,
+      "y": 1.66,
+      "z": -2.11,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0631",
+      "x": 1.586,
+      "y": -1.876,
+      "z": -1.838,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0632",
+      "x": 1.608,
+      "y": 1.872,
+      "z": -1.828,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0633",
+      "x": 1.597,
+      "y": -2.054,
+      "z": -1.569,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0634",
+      "x": 1.589,
+      "y": 2.063,
+      "z": -1.571,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0635",
+      "x": 1.611,
+      "y": -2.187,
+      "z": -1.317,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0636",
+      "x": 1.608,
+      "y": 2.185,
+      "z": -1.319,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0637",
+      "x": 1.601,
+      "y": -2.289,
+      "z": -1.044,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0638",
+      "x": 1.596,
+      "y": 2.298,
+      "z": -1.042,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0639",
+      "x": 1.593,
+      "y": -2.353,
+      "z": -0.788,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0640",
+      "x": 1.591,
+      "y": 2.367,
+      "z": -0.778,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0641",
+      "x": 1.596,
+      "y": -2.415,
+      "z": -0.516,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0642",
+      "x": 1.591,
+      "y": -2.434,
+      "z": -0.253,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0643",
+      "x": 1.595,
+      "y": -2.431,
+      "z": -0.011,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0644",
+      "x": 1.611,
+      "y": -2.406,
+      "z": 0.259,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0645",
+      "x": 1.59,
+      "y": -2.375,
+      "z": 0.523,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0646",
+      "x": 1.594,
+      "y": -2.288,
+      "z": 0.796,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0647",
+      "x": 1.602,
+      "y": -2.206,
+      "z": 1.061,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0648",
+      "x": 1.591,
+      "y": 2.195,
+      "z": 1.05,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0649",
+      "x": 1.599,
+      "y": -2.072,
+      "z": 1.311,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0650",
+      "x": 1.594,
+      "y": 2.072,
+      "z": 1.311,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0651",
+      "x": 1.603,
+      "y": -1.905,
+      "z": 1.565,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0652",
+      "x": 1.591,
+      "y": 1.906,
+      "z": 1.576,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0653",
+      "x": 1.588,
+      "y": -1.688,
+      "z": 1.836,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0654",
+      "x": 1.607,
+      "y": 1.677,
+      "z": 1.827,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0655",
+      "x": 1.593,
+      "y": -1.396,
+      "z": 2.112,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0656",
+      "x": 1.604,
+      "y": 1.38,
+      "z": 2.106,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0657",
+      "x": 2.007,
+      "y": -1.622,
+      "z": -2.11,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0658",
+      "x": 1.994,
+      "y": 1.618,
+      "z": -2.103,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0659",
+      "x": 1.992,
+      "y": -1.841,
+      "z": -1.838,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0660",
+      "x": 2.013,
+      "y": 1.852,
+      "z": -1.83,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0661",
+      "x": 2.009,
+      "y": -2.023,
+      "z": -1.576,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0662",
+      "x": 2.007,
+      "y": 2.02,
+      "z": -1.563,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0663",
+      "x": 1.994,
+      "y": -2.14,
+      "z": -1.314,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0664",
+      "x": 2.006,
+      "y": 2.14,
+      "z": -1.308,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0665",
+      "x": 1.988,
+      "y": -2.246,
+      "z": -1.057,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0666",
+      "x": 1.987,
+      "y": 2.246,
+      "z": -1.051,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0667",
+      "x": 1.995,
+      "y": -2.313,
+      "z": -0.781,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0668",
+      "x": 1.987,
+      "y": 2.317,
+      "z": -0.781,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0669",
+      "x": 1.996,
+      "y": -2.357,
+      "z": -0.524,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0670",
+      "x": 2.009,
+      "y": -2.39,
+      "z": -0.263,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0671",
+      "x": 2.013,
+      "y": -2.381,
+      "z": 0.012,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0672",
+      "x": 2.008,
+      "y": -2.368,
+      "z": 0.268,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0673",
+      "x": 1.99,
+      "y": -2.33,
+      "z": 0.536,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0674",
+      "x": 1.988,
+      "y": -2.259,
+      "z": 0.799,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0675",
+      "x": 2.008,
+      "y": -2.163,
+      "z": 1.041,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0676",
+      "x": 2.013,
+      "y": 2.149,
+      "z": 1.038,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0677",
+      "x": 1.988,
+      "y": -2.017,
+      "z": 1.304,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0678",
+      "x": 1.991,
+      "y": 2.037,
+      "z": 1.301,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0679",
+      "x": 2.007,
+      "y": -1.862,
+      "z": 1.568,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0680",
+      "x": 1.988,
+      "y": 1.859,
+      "z": 1.578,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0681",
+      "x": 1.987,
+      "y": -1.65,
+      "z": 1.842,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0682",
+      "x": 1.991,
+      "y": 1.641,
+      "z": 1.849,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0683",
+      "x": 1.993,
+      "y": -1.352,
+      "z": 2.109,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0684",
+      "x": 1.998,
+      "y": 1.364,
+      "z": 2.09,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0685",
+      "x": 2.392,
+      "y": -1.588,
+      "z": -2.111,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0686",
+      "x": 2.393,
+      "y": 1.577,
+      "z": -2.105,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0687",
+      "x": 2.399,
+      "y": -1.793,
+      "z": -1.834,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0688",
+      "x": 2.404,
+      "y": 1.799,
+      "z": -1.848,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0689",
+      "x": 2.391,
+      "y": -1.97,
+      "z": -1.572,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0690",
+      "x": 2.412,
+      "y": 1.96,
+      "z": -1.582,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0691",
+      "x": 2.402,
+      "y": -2.087,
+      "z": -1.306,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0692",
+      "x": 2.393,
+      "y": 2.088,
+      "z": -1.302,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0693",
+      "x": 2.399,
+      "y": -2.197,
+      "z": -1.058,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0694",
+      "x": 2.41,
+      "y": 2.182,
+      "z": -1.05,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0695",
+      "x": 2.396,
+      "y": -2.266,
+      "z": -0.785,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0696",
+      "x": 2.404,
+      "y": 2.258,
+      "z": -0.776,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0697",
+      "x": 2.41,
+      "y": -2.311,
+      "z": -0.515,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0698",
+      "x": 2.387,
+      "y": -2.336,
+      "z": -0.274,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0699",
+      "x": 2.405,
+      "y": -2.331,
+      "z": 0.002,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0700",
+      "x": 2.397,
+      "y": -2.31,
+      "z": 0.265,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0701",
+      "x": 2.387,
+      "y": -2.264,
+      "z": 0.53,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0702",
+      "x": 2.388,
+      "y": -2.191,
+      "z": 0.782,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0703",
+      "x": 2.39,
+      "y": -2.107,
+      "z": 1.041,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0704",
+      "x": 2.389,
+      "y": 2.1,
+      "z": 1.056,
+      "side": "starboard",
+      "classification": "gap-edge",
+      "synthetic": true
+    },
+    {
+      "id": "P0705",
+      "x": 2.404,
+      "y": -1.968,
+      "z": 1.321,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0706",
+      "x": 2.389,
+      "y": 1.973,
+      "z": 1.322,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0707",
+      "x": 2.387,
+      "y": -1.808,
+      "z": 1.57,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0708",
+      "x": 2.389,
+      "y": 1.821,
+      "z": 1.581,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0709",
+      "x": 2.408,
+      "y": -1.601,
+      "z": 1.842,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0710",
+      "x": 2.402,
+      "y": 1.601,
+      "z": 1.844,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0711",
+      "x": 2.398,
+      "y": -1.322,
+      "z": 2.106,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0712",
+      "x": 2.414,
+      "y": 1.338,
+      "z": 2.095,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0713",
+      "x": 2.801,
+      "y": -1.536,
+      "z": -2.099,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0714",
+      "x": 2.788,
+      "y": 1.529,
+      "z": -2.089,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0715",
+      "x": 2.797,
+      "y": -1.754,
+      "z": -1.84,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0716",
+      "x": 2.797,
+      "y": 1.74,
+      "z": -1.829,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0717",
+      "x": 2.794,
+      "y": -1.906,
+      "z": -1.583,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0718",
+      "x": 2.791,
+      "y": 1.9,
+      "z": -1.578,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0719",
+      "x": 2.809,
+      "y": -2.036,
+      "z": -1.311,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0720",
+      "x": 2.813,
+      "y": 2.028,
+      "z": -1.302,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0721",
+      "x": 2.812,
+      "y": -2.133,
+      "z": -1.043,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0722",
+      "x": 2.789,
+      "y": 2.116,
+      "z": -1.049,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0723",
+      "x": 2.799,
+      "y": -2.201,
+      "z": -0.796,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0724",
+      "x": 2.803,
+      "y": 2.189,
+      "z": -0.798,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0725",
+      "x": 2.811,
+      "y": -2.228,
+      "z": -0.513,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0726",
+      "x": 2.788,
+      "y": 2.24,
+      "z": -0.515,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0727",
+      "x": 2.795,
+      "y": -2.268,
+      "z": -0.273,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0728",
+      "x": 2.813,
+      "y": 2.265,
+      "z": -0.268,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0729",
+      "x": 2.803,
+      "y": -2.265,
+      "z": 0.001,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0730",
+      "x": 2.795,
+      "y": 2.268,
+      "z": 0.004,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0731",
+      "x": 2.811,
+      "y": -2.238,
+      "z": 0.272,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0732",
+      "x": 2.787,
+      "y": 2.248,
+      "z": 0.251,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0733",
+      "x": 2.787,
+      "y": -2.202,
+      "z": 0.521,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0734",
+      "x": 2.797,
+      "y": 2.202,
+      "z": 0.536,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0735",
+      "x": 2.788,
+      "y": -2.122,
+      "z": 0.794,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0736",
+      "x": 2.814,
+      "y": 2.129,
+      "z": 0.785,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0737",
+      "x": 2.8,
+      "y": -2.042,
+      "z": 1.052,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0738",
+      "x": 2.804,
+      "y": 2.03,
+      "z": 1.062,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0739",
+      "x": 2.809,
+      "y": -1.912,
+      "z": 1.312,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0740",
+      "x": 2.788,
+      "y": 1.923,
+      "z": 1.311,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0741",
+      "x": 2.811,
+      "y": -1.754,
+      "z": 1.574,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0742",
+      "x": 2.803,
+      "y": 1.755,
+      "z": 1.576,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0743",
+      "x": 2.802,
+      "y": -1.559,
+      "z": 1.841,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0744",
+      "x": 2.788,
+      "y": 1.553,
+      "z": 1.846,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0745",
+      "x": 2.786,
+      "y": -1.29,
+      "z": 2.11,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0746",
+      "x": 2.792,
+      "y": 1.293,
+      "z": 2.101,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0747",
+      "x": 3.202,
+      "y": -1.476,
+      "z": -2.1,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0748",
+      "x": 3.198,
+      "y": 1.488,
+      "z": -2.096,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0749",
+      "x": 3.192,
+      "y": -1.689,
+      "z": -1.831,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0750",
+      "x": 3.2,
+      "y": 1.685,
+      "z": -1.835,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0751",
+      "x": 3.193,
+      "y": -1.825,
+      "z": -1.582,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0752",
+      "x": 3.199,
+      "y": 1.841,
+      "z": -1.585,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0753",
+      "x": 3.201,
+      "y": -1.95,
+      "z": -1.324,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0754",
+      "x": 3.187,
+      "y": 1.955,
+      "z": -1.305,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0755",
+      "x": 3.19,
+      "y": -2.051,
+      "z": -1.043,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0756",
+      "x": 3.195,
+      "y": 2.048,
+      "z": -1.038,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0757",
+      "x": 3.206,
+      "y": -2.103,
+      "z": -0.793,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0758",
+      "x": 3.198,
+      "y": 2.106,
+      "z": -0.789,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0759",
+      "x": 3.212,
+      "y": -2.144,
+      "z": -0.521,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0760",
+      "x": 3.193,
+      "y": 2.161,
+      "z": -0.53,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0761",
+      "x": 3.21,
+      "y": -2.175,
+      "z": -0.251,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0762",
+      "x": 3.201,
+      "y": 2.183,
+      "z": -0.274,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0763",
+      "x": 3.213,
+      "y": -2.165,
+      "z": -0.012,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0764",
+      "x": 3.193,
+      "y": 2.175,
+      "z": 0.001,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0765",
+      "x": 3.21,
+      "y": -2.15,
+      "z": 0.254,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0766",
+      "x": 3.202,
+      "y": 2.162,
+      "z": 0.269,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0767",
+      "x": 3.199,
+      "y": -2.11,
+      "z": 0.515,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0768",
+      "x": 3.197,
+      "y": 2.109,
+      "z": 0.52,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0769",
+      "x": 3.19,
+      "y": -2.057,
+      "z": 0.776,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0770",
+      "x": 3.199,
+      "y": 2.056,
+      "z": 0.779,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0771",
+      "x": 3.206,
+      "y": -1.971,
+      "z": 1.039,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0772",
+      "x": 3.208,
+      "y": 1.953,
+      "z": 1.05,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0773",
+      "x": 3.212,
+      "y": -1.852,
+      "z": 1.322,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0774",
+      "x": 3.213,
+      "y": 1.847,
+      "z": 1.315,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0775",
+      "x": 3.203,
+      "y": -1.691,
+      "z": 1.575,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0776",
+      "x": 3.188,
+      "y": 1.696,
+      "z": 1.582,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0777",
+      "x": 3.203,
+      "y": -1.503,
+      "z": 1.828,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0778",
+      "x": 3.198,
+      "y": 1.509,
+      "z": 1.826,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0779",
+      "x": 3.201,
+      "y": -1.247,
+      "z": 2.111,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0780",
+      "x": 3.194,
+      "y": 1.239,
+      "z": 2.093,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0781",
+      "x": 3.61,
+      "y": -1.411,
+      "z": -2.096,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0782",
+      "x": 3.598,
+      "y": 1.409,
+      "z": -2.093,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0783",
+      "x": 3.595,
+      "y": -1.606,
+      "z": -1.845,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0784",
+      "x": 3.601,
+      "y": 1.611,
+      "z": -1.832,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0785",
+      "x": 3.608,
+      "y": -1.747,
+      "z": -1.576,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0786",
+      "x": 3.586,
+      "y": 1.746,
+      "z": -1.586,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0787",
+      "x": 3.592,
+      "y": -1.864,
+      "z": -1.301,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0788",
+      "x": 3.595,
+      "y": 1.872,
+      "z": -1.309,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0789",
+      "x": 3.613,
+      "y": -1.945,
+      "z": -1.048,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0790",
+      "x": 3.614,
+      "y": 1.94,
+      "z": -1.053,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0791",
+      "x": 3.604,
+      "y": -2.013,
+      "z": -0.777,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0792",
+      "x": 3.598,
+      "y": 2.01,
+      "z": -0.796,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0793",
+      "x": 3.607,
+      "y": -2.052,
+      "z": -0.522,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0794",
+      "x": 3.592,
+      "y": 2.056,
+      "z": -0.519,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0795",
+      "x": 3.605,
+      "y": -2.064,
+      "z": -0.256,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0796",
+      "x": 3.593,
+      "y": 2.07,
+      "z": -0.266,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0797",
+      "x": 3.598,
+      "y": -2.074,
+      "z": -0.006,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0798",
+      "x": 3.613,
+      "y": 2.068,
+      "z": -0.003,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0799",
+      "x": 3.59,
+      "y": -2.051,
+      "z": 0.252,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0800",
+      "x": 3.588,
+      "y": 2.057,
+      "z": 0.258,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0801",
+      "x": 3.61,
+      "y": -2.025,
+      "z": 0.536,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0802",
+      "x": 3.603,
+      "y": 2.017,
+      "z": 0.524,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0803",
+      "x": 3.59,
+      "y": -1.957,
+      "z": 0.789,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0804",
+      "x": 3.593,
+      "y": 1.955,
+      "z": 0.791,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0805",
+      "x": 3.603,
+      "y": -1.871,
+      "z": 1.043,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0806",
+      "x": 3.59,
+      "y": 1.872,
+      "z": 1.047,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0807",
+      "x": 3.589,
+      "y": -1.761,
+      "z": 1.323,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0808",
+      "x": 3.602,
+      "y": 1.765,
+      "z": 1.324,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0809",
+      "x": 3.594,
+      "y": -1.626,
+      "z": 1.569,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0810",
+      "x": 3.588,
+      "y": 1.607,
+      "z": 1.565,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0811",
+      "x": 3.613,
+      "y": -1.424,
+      "z": 1.838,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0812",
+      "x": 3.598,
+      "y": 1.439,
+      "z": 1.837,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0813",
+      "x": 3.595,
+      "y": -1.185,
+      "z": 2.091,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0814",
+      "x": 3.605,
+      "y": 1.176,
+      "z": 2.09,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0815",
+      "x": 4.001,
+      "y": -1.338,
+      "z": -2.091,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0816",
+      "x": 3.993,
+      "y": 1.333,
+      "z": -2.091,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0817",
+      "x": 4.005,
+      "y": -1.513,
+      "z": -1.841,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0818",
+      "x": 4.014,
+      "y": 1.517,
+      "z": -1.849,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0819",
+      "x": 4.006,
+      "y": -1.652,
+      "z": -1.578,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0820",
+      "x": 3.994,
+      "y": 1.652,
+      "z": -1.585,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0821",
+      "x": 4.012,
+      "y": -1.753,
+      "z": -1.316,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0822",
+      "x": 4.014,
+      "y": 1.763,
+      "z": -1.309,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0823",
+      "x": 4.004,
+      "y": -1.839,
+      "z": -1.046,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0824",
+      "x": 3.992,
+      "y": 1.834,
+      "z": -1.061,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0825",
+      "x": 4.002,
+      "y": -1.902,
+      "z": -0.794,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0826",
+      "x": 3.988,
+      "y": 1.904,
+      "z": -0.777,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0827",
+      "x": 4.001,
+      "y": -1.937,
+      "z": -0.531,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0828",
+      "x": 4.002,
+      "y": 1.938,
+      "z": -0.536,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0829",
+      "x": 4.013,
+      "y": -1.958,
+      "z": -0.268,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0830",
+      "x": 3.99,
+      "y": 1.954,
+      "z": -0.273,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0831",
+      "x": 3.993,
+      "y": -1.956,
+      "z": 0,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0832",
+      "x": 4.006,
+      "y": 1.965,
+      "z": 0.01,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0833",
+      "x": 4.009,
+      "y": -1.929,
+      "z": 0.267,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0834",
+      "x": 4.006,
+      "y": 1.944,
+      "z": 0.27,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0835",
+      "x": 4.004,
+      "y": -1.893,
+      "z": 0.516,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0836",
+      "x": 4.005,
+      "y": 1.901,
+      "z": 0.536,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0837",
+      "x": 3.991,
+      "y": -1.837,
+      "z": 0.788,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0838",
+      "x": 3.997,
+      "y": 1.836,
+      "z": 0.798,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0839",
+      "x": 3.99,
+      "y": -1.764,
+      "z": 1.046,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0840",
+      "x": 3.992,
+      "y": 1.762,
+      "z": 1.039,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0841",
+      "x": 3.986,
+      "y": -1.657,
+      "z": 1.314,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0842",
+      "x": 4.008,
+      "y": 1.652,
+      "z": 1.308,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0843",
+      "x": 3.991,
+      "y": -1.514,
+      "z": 1.566,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0844",
+      "x": 3.992,
+      "y": 1.526,
+      "z": 1.567,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0845",
+      "x": 3.989,
+      "y": -1.349,
+      "z": 1.84,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0846",
+      "x": 3.986,
+      "y": 1.355,
+      "z": 1.842,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0847",
+      "x": 3.994,
+      "y": -1.12,
+      "z": 2.111,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0848",
+      "x": 4.013,
+      "y": 1.123,
+      "z": 2.105,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0849",
+      "x": 4.405,
+      "y": -1.236,
+      "z": -2.094,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0850",
+      "x": 4.391,
+      "y": 1.231,
+      "z": -2.108,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0851",
+      "x": 4.387,
+      "y": -1.407,
+      "z": -1.848,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0852",
+      "x": 4.397,
+      "y": 1.41,
+      "z": -1.834,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0853",
+      "x": 4.398,
+      "y": -1.536,
+      "z": -1.586,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0854",
+      "x": 4.396,
+      "y": 1.53,
+      "z": -1.565,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0855",
+      "x": 4.386,
+      "y": -1.629,
+      "z": -1.307,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0856",
+      "x": 4.392,
+      "y": 1.64,
+      "z": -1.303,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0857",
+      "x": 4.386,
+      "y": -1.709,
+      "z": -1.051,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0858",
+      "x": 4.413,
+      "y": 1.708,
+      "z": -1.039,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0859",
+      "x": 4.398,
+      "y": -1.757,
+      "z": -0.784,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0860",
+      "x": 4.402,
+      "y": 1.752,
+      "z": -0.79,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0861",
+      "x": 4.405,
+      "y": -1.805,
+      "z": -0.522,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0862",
+      "x": 4.402,
+      "y": 1.796,
+      "z": -0.519,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0863",
+      "x": 4.404,
+      "y": -1.805,
+      "z": -0.253,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0864",
+      "x": 4.398,
+      "y": 1.807,
+      "z": -0.273,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0865",
+      "x": 4.399,
+      "y": -1.815,
+      "z": -0.003,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0866",
+      "x": 4.39,
+      "y": 1.81,
+      "z": 0.008,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0867",
+      "x": 4.391,
+      "y": -1.796,
+      "z": 0.255,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0868",
+      "x": 4.411,
+      "y": 1.8,
+      "z": 0.257,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0869",
+      "x": 4.404,
+      "y": -1.764,
+      "z": 0.535,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0870",
+      "x": 4.413,
+      "y": 1.771,
+      "z": 0.53,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0871",
+      "x": 4.386,
+      "y": -1.706,
+      "z": 0.79,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0872",
+      "x": 4.411,
+      "y": 1.704,
+      "z": 0.778,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0873",
+      "x": 4.398,
+      "y": -1.643,
+      "z": 1.049,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0874",
+      "x": 4.4,
+      "y": 1.637,
+      "z": 1.059,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0875",
+      "x": 4.412,
+      "y": -1.532,
+      "z": 1.309,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0876",
+      "x": 4.397,
+      "y": 1.539,
+      "z": 1.317,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0877",
+      "x": 4.399,
+      "y": -1.42,
+      "z": 1.574,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0878",
+      "x": 4.396,
+      "y": 1.412,
+      "z": 1.569,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0879",
+      "x": 4.409,
+      "y": -1.252,
+      "z": 1.84,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0880",
+      "x": 4.41,
+      "y": 1.254,
+      "z": 1.831,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0881",
+      "x": 4.405,
+      "y": -1.041,
+      "z": 2.098,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0882",
+      "x": 4.393,
+      "y": 1.039,
+      "z": 2.099,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0883",
+      "x": 4.808,
+      "y": -1.125,
+      "z": -2.088,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0884",
+      "x": 4.807,
+      "y": 1.116,
+      "z": -2.112,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0885",
+      "x": 4.796,
+      "y": -1.266,
+      "z": -1.844,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0886",
+      "x": 4.81,
+      "y": 1.276,
+      "z": -1.831,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0887",
+      "x": 4.806,
+      "y": -1.39,
+      "z": -1.566,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0888",
+      "x": 4.788,
+      "y": 1.388,
+      "z": -1.569,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0889",
+      "x": 4.807,
+      "y": -1.489,
+      "z": -1.305,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0890",
+      "x": 4.793,
+      "y": 1.478,
+      "z": -1.323,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0891",
+      "x": 4.794,
+      "y": -1.551,
+      "z": -1.05,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0892",
+      "x": 4.811,
+      "y": 1.541,
+      "z": -1.06,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0893",
+      "x": 4.788,
+      "y": -1.607,
+      "z": -0.797,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0894",
+      "x": 4.799,
+      "y": 1.593,
+      "z": -0.789,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0895",
+      "x": 4.787,
+      "y": -1.639,
+      "z": -0.524,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0896",
+      "x": 4.786,
+      "y": 1.626,
+      "z": -0.525,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0897",
+      "x": 4.814,
+      "y": -1.654,
+      "z": -0.264,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0898",
+      "x": 4.8,
+      "y": 1.656,
+      "z": -0.251,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0899",
+      "x": 4.81,
+      "y": -1.654,
+      "z": 0.001,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0900",
+      "x": 4.81,
+      "y": 1.654,
+      "z": -0.009,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0901",
+      "x": 4.804,
+      "y": -1.637,
+      "z": 0.263,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0902",
+      "x": 4.808,
+      "y": 1.63,
+      "z": 0.274,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0903",
+      "x": 4.802,
+      "y": -1.603,
+      "z": 0.521,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0904",
+      "x": 4.814,
+      "y": 1.594,
+      "z": 0.526,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0905",
+      "x": 4.789,
+      "y": -1.553,
+      "z": 0.778,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0906",
+      "x": 4.806,
+      "y": 1.556,
+      "z": 0.777,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0907",
+      "x": 4.793,
+      "y": -1.481,
+      "z": 1.06,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0908",
+      "x": 4.798,
+      "y": 1.488,
+      "z": 1.048,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0909",
+      "x": 4.809,
+      "y": -1.393,
+      "z": 1.305,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0910",
+      "x": 4.803,
+      "y": 1.391,
+      "z": 1.319,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0911",
+      "x": 4.804,
+      "y": -1.292,
+      "z": 1.567,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0912",
+      "x": 4.805,
+      "y": 1.285,
+      "z": 1.572,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0913",
+      "x": 4.786,
+      "y": -1.131,
+      "z": 1.828,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0914",
+      "x": 4.792,
+      "y": 1.143,
+      "z": 1.833,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0915",
+      "x": 4.786,
+      "y": -0.946,
+      "z": 2.091,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0916",
+      "x": 4.794,
+      "y": 0.94,
+      "z": 2.096,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0917",
+      "x": 5.201,
+      "y": -0.978,
+      "z": -2.096,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0918",
+      "x": 5.205,
+      "y": 0.986,
+      "z": -2.102,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0919",
+      "x": 5.211,
+      "y": -1.117,
+      "z": -1.832,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0920",
+      "x": 5.21,
+      "y": 1.12,
+      "z": -1.843,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0921",
+      "x": 5.21,
+      "y": -1.225,
+      "z": -1.571,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0922",
+      "x": 5.206,
+      "y": 1.226,
+      "z": -1.576,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0923",
+      "x": 5.187,
+      "y": -1.289,
+      "z": -1.311,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0924",
+      "x": 5.212,
+      "y": 1.308,
+      "z": -1.319,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0925",
+      "x": 5.209,
+      "y": -1.354,
+      "z": -1.043,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0926",
+      "x": 5.207,
+      "y": 1.365,
+      "z": -1.042,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0927",
+      "x": 5.192,
+      "y": -1.4,
+      "z": -0.792,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0928",
+      "x": 5.192,
+      "y": 1.411,
+      "z": -0.786,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0929",
+      "x": 5.188,
+      "y": -1.425,
+      "z": -0.519,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0930",
+      "x": 5.197,
+      "y": 1.426,
+      "z": -0.521,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0931",
+      "x": 5.187,
+      "y": -1.447,
+      "z": -0.269,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0932",
+      "x": 5.204,
+      "y": 1.443,
+      "z": -0.27,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0933",
+      "x": 5.189,
+      "y": -1.452,
+      "z": 0.003,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0934",
+      "x": 5.206,
+      "y": 1.436,
+      "z": 0,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0935",
+      "x": 5.192,
+      "y": -1.422,
+      "z": 0.259,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0936",
+      "x": 5.2,
+      "y": 1.433,
+      "z": 0.253,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0937",
+      "x": 5.194,
+      "y": -1.403,
+      "z": 0.525,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0938",
+      "x": 5.212,
+      "y": 1.402,
+      "z": 0.515,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0939",
+      "x": 5.213,
+      "y": -1.355,
+      "z": 0.784,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0940",
+      "x": 5.206,
+      "y": 1.361,
+      "z": 0.776,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0941",
+      "x": 5.209,
+      "y": -1.303,
+      "z": 1.046,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0942",
+      "x": 5.191,
+      "y": 1.307,
+      "z": 1.052,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0943",
+      "x": 5.193,
+      "y": -1.229,
+      "z": 1.312,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0944",
+      "x": 5.212,
+      "y": 1.235,
+      "z": 1.316,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0945",
+      "x": 5.213,
+      "y": -1.124,
+      "z": 1.574,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0946",
+      "x": 5.192,
+      "y": 1.126,
+      "z": 1.586,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0947",
+      "x": 5.199,
+      "y": -1,
+      "z": 1.842,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0948",
+      "x": 5.213,
+      "y": 0.986,
+      "z": 1.826,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0949",
+      "x": 5.194,
+      "y": -0.828,
+      "z": 2.098,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0950",
+      "x": 5.212,
+      "y": 0.817,
+      "z": 2.111,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0951",
+      "x": 5.601,
+      "y": -0.814,
+      "z": -2.107,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0952",
+      "x": 5.587,
+      "y": 0.8,
+      "z": -2.088,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0953",
+      "x": 5.603,
+      "y": -0.913,
+      "z": -1.844,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0954",
+      "x": 5.588,
+      "y": 0.913,
+      "z": -1.838,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0955",
+      "x": 5.612,
+      "y": -0.991,
+      "z": -1.564,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0956",
+      "x": 5.612,
+      "y": 1.009,
+      "z": -1.572,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0957",
+      "x": 5.599,
+      "y": -1.063,
+      "z": -1.323,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0958",
+      "x": 5.588,
+      "y": 1.071,
+      "z": -1.315,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0959",
+      "x": 5.593,
+      "y": -1.124,
+      "z": -1.053,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0960",
+      "x": 5.596,
+      "y": 1.119,
+      "z": -1.046,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0961",
+      "x": 5.606,
+      "y": -1.152,
+      "z": -0.799,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0962",
+      "x": 5.589,
+      "y": 1.154,
+      "z": -0.782,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0963",
+      "x": 5.588,
+      "y": -1.182,
+      "z": -0.517,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0964",
+      "x": 5.606,
+      "y": 1.184,
+      "z": -0.518,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0965",
+      "x": 5.6,
+      "y": -1.185,
+      "z": -0.265,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0966",
+      "x": 5.604,
+      "y": 1.186,
+      "z": -0.264,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0967",
+      "x": 5.6,
+      "y": -1.196,
+      "z": -0.004,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0968",
+      "x": 5.603,
+      "y": 1.187,
+      "z": -0.01,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0969",
+      "x": 5.61,
+      "y": -1.181,
+      "z": 0.26,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0970",
+      "x": 5.607,
+      "y": 1.174,
+      "z": 0.268,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0971",
+      "x": 5.604,
+      "y": -1.149,
+      "z": 0.524,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0972",
+      "x": 5.587,
+      "y": 1.146,
+      "z": 0.528,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0973",
+      "x": 5.609,
+      "y": -1.111,
+      "z": 0.797,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0974",
+      "x": 5.596,
+      "y": 1.111,
+      "z": 0.776,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0975",
+      "x": 5.599,
+      "y": -1.067,
+      "z": 1.059,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0976",
+      "x": 5.611,
+      "y": 1.075,
+      "z": 1.06,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0977",
+      "x": 5.606,
+      "y": -0.999,
+      "z": 1.315,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0978",
+      "x": 5.598,
+      "y": 1.008,
+      "z": 1.308,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0979",
+      "x": 5.592,
+      "y": -0.926,
+      "z": 1.567,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0980",
+      "x": 5.592,
+      "y": 0.919,
+      "z": 1.567,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0981",
+      "x": 5.595,
+      "y": -0.818,
+      "z": 1.849,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0982",
+      "x": 5.6,
+      "y": 0.814,
+      "z": 1.843,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0983",
+      "x": 5.595,
+      "y": -0.67,
+      "z": 2.105,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0984",
+      "x": 5.607,
+      "y": 0.669,
+      "z": 2.097,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0985",
+      "x": 6.002,
+      "y": -0.563,
+      "z": -2.096,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0986",
+      "x": 5.992,
+      "y": 0.561,
+      "z": -2.104,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0987",
+      "x": 6.009,
+      "y": -0.636,
+      "z": -1.829,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0988",
+      "x": 5.993,
+      "y": 0.638,
+      "z": -1.828,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0989",
+      "x": 5.993,
+      "y": -0.7,
+      "z": -1.58,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0990",
+      "x": 5.987,
+      "y": 0.703,
+      "z": -1.567,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0991",
+      "x": 6.01,
+      "y": -0.734,
+      "z": -1.302,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0992",
+      "x": 5.996,
+      "y": 0.742,
+      "z": -1.313,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0993",
+      "x": 5.989,
+      "y": -0.782,
+      "z": -1.046,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0994",
+      "x": 5.994,
+      "y": 0.78,
+      "z": -1.054,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0995",
+      "x": 5.989,
+      "y": -0.808,
+      "z": -0.787,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0996",
+      "x": 5.987,
+      "y": 0.79,
+      "z": -0.792,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0997",
+      "x": 5.986,
+      "y": -0.819,
+      "z": -0.533,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0998",
+      "x": 6.005,
+      "y": 0.808,
+      "z": -0.516,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P0999",
+      "x": 6.012,
+      "y": -0.821,
+      "z": -0.266,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1000",
+      "x": 6.008,
+      "y": 0.821,
+      "z": -0.252,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1001",
+      "x": 6.004,
+      "y": -0.826,
+      "z": 0.008,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1002",
+      "x": 6.003,
+      "y": 0.817,
+      "z": 0.006,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1003",
+      "x": 6.003,
+      "y": -0.807,
+      "z": 0.27,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1004",
+      "x": 5.997,
+      "y": 0.811,
+      "z": 0.273,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1005",
+      "x": 5.998,
+      "y": -0.803,
+      "z": 0.516,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1006",
+      "x": 5.997,
+      "y": 0.796,
+      "z": 0.515,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1007",
+      "x": 5.999,
+      "y": -0.769,
+      "z": 0.795,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1008",
+      "x": 5.991,
+      "y": 0.769,
+      "z": 0.793,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1009",
+      "x": 5.989,
+      "y": -0.747,
+      "z": 1.043,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1010",
+      "x": 6.01,
+      "y": 0.739,
+      "z": 1.04,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1011",
+      "x": 5.987,
+      "y": -0.709,
+      "z": 1.301,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1012",
+      "x": 5.995,
+      "y": 0.694,
+      "z": 1.303,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1013",
+      "x": 6.011,
+      "y": -0.643,
+      "z": 1.567,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1014",
+      "x": 5.997,
+      "y": 0.643,
+      "z": 1.568,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1015",
+      "x": 6.008,
+      "y": -0.567,
+      "z": 1.836,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1016",
+      "x": 6.013,
+      "y": 0.575,
+      "z": 1.833,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1017",
+      "x": 6.003,
+      "y": -0.469,
+      "z": 2.089,
+      "side": "port",
+      "classification": "sample",
+      "synthetic": true
+    },
+    {
+      "id": "P1018",
+      "x": 6.01,
+      "y": 0.476,
+      "z": 2.092,
+      "side": "starboard",
+      "classification": "sample",
+      "synthetic": true
+    }
+  ]
+}

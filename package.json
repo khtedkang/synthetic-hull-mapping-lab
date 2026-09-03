@@ -1,0 +1,26 @@
+{
+  "name": "synthetic-hull-mapping-lab",
+  "version": "1.0.0",
+  "description": "A clean-room, browser-first learning lab for deterministic synthetic hull-surface point clouds.",
+  "type": "module",
+  "private": true,
+  "author": "Ted Kang",
+  "license": "MIT",
+  "keywords": [
+    "synthetic-data",
+    "point-cloud",
+    "geometry",
+    "browser",
+    "portfolio"
+  ],
+  "scripts": {
+    "generate:samples": "node scripts/generate-samples.mjs",
+    "test": "node --test",
+    "scan:boundaries": "node scripts/boundary-scan.mjs",
+    "verify": "node --test && node scripts/boundary-scan.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

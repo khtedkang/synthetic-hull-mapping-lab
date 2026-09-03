@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Synthetic Hull Mapping Learning Lab">
+  <rect width="64" height="64" rx="14" fill="#10252b"/>
+  <circle cx="18" cy="40" r="5" fill="#72d5cf"/>
+  <circle cx="31" cy="29" r="5" fill="#72d5cf"/>
+  <circle cx="46" cy="21" r="5" fill="#e36c35"/>
+  <path d="M18 40 31 29 46 21" fill="none" stroke="#f4f5ef" stroke-width="3" stroke-linecap="round"/>
+</svg>

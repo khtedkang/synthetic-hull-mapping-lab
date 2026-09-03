@@ -1,0 +1,23 @@
+name: quality-gates
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Regenerate deterministic samples
+        run: npm run generate:samples
+      - name: Run tests and repository boundary scan
+        run: npm run verify
+      - name: Confirm generation left the repository clean
+        run: git diff --exit-code

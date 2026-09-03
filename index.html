@@ -1,0 +1,220 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="An educational lab for exploring a deterministic, entirely synthetic hull-surface point cloud."
+    />
+    <meta name="theme-color" content="#10252b" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'"
+    />
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Synthetic Hull Mapping Learning Lab — Synthetic geometry, clearly bounded</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to the learning lab</a>
+
+    <header class="site-header">
+      <a class="wordmark" href="#main-content" aria-label="Synthetic Hull Mapping Learning Lab home">
+        <span class="wordmark-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+        <span>Hull Mapping</span>
+        <small>Learning Lab</small>
+      </a>
+      <p class="header-note">Synthetic geometry · deterministic output · local processing</p>
+    </header>
+
+    <main id="main-content">
+      <section class="lab-shell" aria-labelledby="lab-title">
+        <div class="lab-heading">
+          <div>
+            <p class="eyebrow">Browser-first geometry study</p>
+            <h1 id="lab-title">Explore where the map is—and where it isn’t.</h1>
+          </div>
+          <p class="lede">
+            Rotate a fictional hull-surface point cloud, select two samples, and export the
+            same reproducible dataset in three open formats.
+          </p>
+        </div>
+
+        <div class="status-strip" aria-label="Dataset summary">
+          <div>
+            <span class="status-label">Included</span>
+            <strong id="point-count">—</strong>
+            <span>points</span>
+          </div>
+          <div>
+            <span class="status-label">Intentionally omitted</span>
+            <strong id="omitted-count">—</strong>
+            <span>positions</span>
+          </div>
+          <div>
+            <span class="status-label">Seed</span>
+            <strong id="seed-value">—</strong>
+            <span>fixed</span>
+          </div>
+          <div>
+            <span class="status-label">Coordinate unit</span>
+            <strong>f.u.</strong>
+            <span>fictional</span>
+          </div>
+        </div>
+
+        <div class="workspace-grid">
+          <section class="viewport-card" aria-labelledby="viewport-heading">
+            <div class="panel-header">
+              <div>
+                <p class="panel-index">01 / Surface</p>
+                <h2 id="viewport-heading">Synthetic point cloud</h2>
+              </div>
+              <div class="legend" aria-label="Visualization legend">
+                <span><i class="dot dot-sample"></i>sample</span>
+                <span><i class="dot dot-edge"></i>gap edge</span>
+                <span><i class="dot dot-selected"></i>selected</span>
+              </div>
+            </div>
+
+            <div class="canvas-wrap">
+              <canvas
+                id="point-cloud"
+                tabindex="0"
+                aria-label="Interactive projection of a fictional hull-surface point cloud. Drag to rotate, use the wheel to zoom, or use arrow and plus or minus keys. Click a point to select it for measurement."
+                aria-describedby="canvas-help canvas-summary"
+              ></canvas>
+              <div class="axis-key" aria-hidden="true">
+                <span>x</span><span>y</span><span>z</span>
+              </div>
+              <p id="canvas-summary" class="sr-only"></p>
+            </div>
+
+            <div class="viewport-footer">
+              <p id="canvas-help">
+                <strong>Explore:</strong> drag to rotate · scroll or use +/− to zoom · arrow keys
+                to nudge · click a sample to measure
+              </p>
+              <div class="button-row">
+                <button class="button button-secondary" id="starboard-view" type="button">
+                  Show gap
+                </button>
+                <button class="button button-secondary" id="reset-view" type="button">
+                  Reset view
+                </button>
+              </div>
+            </div>
+          </section>
+
+          <aside class="control-stack" aria-label="Measurement and export controls">
+            <section class="control-card" aria-labelledby="measure-heading">
+              <div class="panel-header compact">
+                <div>
+                  <p class="panel-index">02 / Measure</p>
+                  <h2 id="measure-heading">3D distance</h2>
+                </div>
+                <button class="text-button" id="sample-pair" type="button">Use sample pair</button>
+              </div>
+
+              <p class="control-intro">
+                Enter two valid point IDs or choose them directly in the surface view.
+              </p>
+              <div class="coordinate-inputs">
+                <label>
+                  <span>Point A</span>
+                  <input id="point-a" name="point-a" autocomplete="off" spellcheck="false" />
+                </label>
+                <span class="input-connector" aria-hidden="true">↔</span>
+                <label>
+                  <span>Point B</span>
+                  <input id="point-b" name="point-b" autocomplete="off" spellcheck="false" />
+                </label>
+              </div>
+              <p class="field-note" id="measurement-status" role="status" aria-live="polite"></p>
+
+              <div class="measurement-result" aria-labelledby="distance-label">
+                <span id="distance-label">Straight-line distance</span>
+                <strong><span id="distance-value">—</span> <small>f.u.</small></strong>
+              </div>
+
+              <div class="table-wrap">
+                <table>
+                  <caption class="sr-only">Coordinates of selected measurement points</caption>
+                  <thead>
+                    <tr><th scope="col">Point</th><th scope="col">x</th><th scope="col">y</th><th scope="col">z</th></tr>
+                  </thead>
+                  <tbody id="coordinate-table"></tbody>
+                </table>
+              </div>
+            </section>
+
+            <section class="control-card" aria-labelledby="export-heading">
+              <div class="panel-header compact">
+                <div>
+                  <p class="panel-index">03 / Export</p>
+                  <h2 id="export-heading">Open-format dataset</h2>
+                </div>
+              </div>
+              <p class="control-intro">
+                Files are produced in your browser. Nothing is uploaded or transmitted.
+              </p>
+              <div class="export-grid">
+                <button class="export-button" type="button" data-format="csv">
+                  <span>.CSV</span><small>tabular coordinates</small>
+                </button>
+                <button class="export-button" type="button" data-format="json">
+                  <span>.JSON</span><small>metadata + points</small>
+                </button>
+                <button class="export-button" type="button" data-format="ply">
+                  <span>.PLY</span><small>3D vertex cloud</small>
+                </button>
+              </div>
+              <p class="field-note" id="export-status" role="status" aria-live="polite"></p>
+            </section>
+          </aside>
+        </div>
+      </section>
+
+      <section class="explain-grid" aria-labelledby="method-title">
+        <article class="method-card method-card-wide">
+          <p class="eyebrow">Method, not a field system</p>
+          <h2 id="method-title">A compact demonstration of traceable geometry handling.</h2>
+          <p>
+            A seeded generator samples two sides of a deliberately simplified surface. One
+            bounded region is omitted before point IDs are assigned, making the coverage gap
+            reproducible and visible. Measurements use ordinary Euclidean distance in fictional
+            coordinate units.
+          </p>
+          <ol class="method-steps">
+            <li><span>01</span><strong>Generate</strong><small>fixed seed and documented bounds</small></li>
+            <li><span>02</span><strong>Inspect</strong><small>rotate, zoom, and expose the gap</small></li>
+            <li><span>03</span><strong>Measure</strong><small>compare two explicit coordinates</small></li>
+            <li><span>04</span><strong>Export</strong><small>CSV, JSON, or ASCII PLY</small></li>
+          </ol>
+        </article>
+
+        <article class="method-card boundary-card">
+          <p class="eyebrow">Boundaries</p>
+          <h2>What this lab does not claim</h2>
+          <ul class="boundary-list">
+            <li>no vehicle or sensor connection</li>
+            <li>no route or mission planning</li>
+            <li>no field-accuracy claim</li>
+            <li>no inspection or certification use</li>
+            <li>no operational recommendation</li>
+          </ul>
+          <p class="boundary-note">Every coordinate and output is fictional and educational.</p>
+        </article>
+      </section>
+    </main>
+
+    <footer>
+      <p><strong>Synthetic Hull Mapping Learning Lab</strong> · A clean-room portfolio demonstration by Ted Kang.</p>
+      <p>Source and documentation licensed under MIT · Dataset marked as synthetic in every format.</p>
+    </footer>
+
+    <script type="module" src="src/app.mjs"></script>
+  </body>
+</html>

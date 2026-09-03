@@ -1,0 +1,31 @@
+{
+  "name": "synthetic-hull-mapping-lab-surface",
+  "version": "1.0.0",
+  "synthetic": true,
+  "deterministic": true,
+  "seed": 41729,
+  "coordinateUnit": "fictional_unit",
+  "pointCount": 1018,
+  "omittedPositions": 36,
+  "intentionalGap": {
+    "side": "starboard",
+    "xMin": 0.4,
+    "xMax": 2.45,
+    "zMin": -0.6,
+    "zMax": 0.95
+  },
+  "formats": [
+    "csv",
+    "json",
+    "ply"
+  ],
+  "intendedUse": "education_and_software_demonstration_only",
+  "exclusions": [
+    "vehicle_connection",
+    "route_planning",
+    "field_accuracy",
+    "inspection",
+    "certification",
+    "operational_use"
+  ]
+}
